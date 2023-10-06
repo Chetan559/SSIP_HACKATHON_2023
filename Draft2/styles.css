@@ -61,3 +61,17 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+   }
+   
+.logo {
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+   }
+   
