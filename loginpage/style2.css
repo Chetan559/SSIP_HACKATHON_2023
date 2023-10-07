@@ -176,7 +176,7 @@ form:after {
 #username { background-position: 10px 10px !important }
 #password { background-position: 10px -53px !important }
 #content form input[type="submit"] {
-  background: rgb(249, 248, 249);
+  background: rgb(181, 31, 181);
   background: -moz-linear-gradient(top,  rgb(249, 248, 249) 0%, rgb(249, 248, 249) 100%);
   background: -webkit-linear-gradient(top,  rgb(249, 248, 249) 0%,rgb(249, 248, 249) 100%);
   background: -o-linear-gradient(top,  rgb(249, 248, 249) 0%rgb(249, 248, 249) 100%);
@@ -194,7 +194,7 @@ form:after {
   -o-box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
   box-shadow: 0 1px 0 rgba(255,255,255,0.8) inset;
   border: 1px solid  #f0eff4;
-  color:#f0eff4;
+  color:#2c0fa3;
   cursor: pointer;
   float: left;
   font: bold 15px Helvetica, Arial, sans-serif;
