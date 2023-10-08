@@ -9,7 +9,7 @@ document.getElementById('send-button').addEventListener('click', () => {
         userMessage.textContent = userInput.value;
         chatMessages.appendChild(userMessage);
 
-        // Add your GPT-3 API call here to get the response
+        // Add Responce generating API  here to get the response
 
         userInput.value = '';
     }
