@@ -1,10 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    /* background-color: #4caf50; */
     background-color: #f0f0f0;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     height: 100vh;
     margin: 0;
 }
@@ -31,7 +29,6 @@ body {
 
 .chat-header {
     background-color: #4caf50;
-    /* background-color: #29398D; */
     color: #ffffff;
     margin-top: -1px;
     padding: 20px;
@@ -53,41 +50,31 @@ body {
     align-items: center;
 }
 
-/* @media only screen and (max-width: 750px) {
-    .chat-input {
-        padding-bottom: 10%;
-    }} */
+input[type="text"] {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    outline: none;
+}
     
-    input[type="text"] {
-        flex-grow: 1;
-        padding: 10px;
-        border: 1px solid #cccccc;
-        border-radius: 5px;
-        outline: none;
-    }
-    
-    button {
-        background-color: #4caf50;
-        /* background-color: #29398D; */
-        color: #ffffff;
-        padding: 10px 20px;
-        margin-left: 10px;
-        border: none;
+button {
+    background-color: #4caf50;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    /* background-color: #282828; */
     background-color: #45a049;
 }
-
-
 
 .logo-container {
     display: flex;
     align-items: center;
-    /* justify-content: center; */
     width: 100%;
     height: 100px;
     font-size: 20px;
@@ -95,19 +82,18 @@ button:hover {
 
 @media only screen and (max-width: 800px) {
     .logo-container{
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     width: 100%;
-     height: 120px;
-     font-size: 20px;
- }
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 120px;
+        font-size: 20px;
+    }
 }
 
 .logo {
-    /* margin-right: 5; */
-    /* margin-left: 45%; */
+    
     width: 120px; 
     height: 120px;
-   }
+}
    
