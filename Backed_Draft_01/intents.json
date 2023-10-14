@@ -34,13 +34,14 @@
     {
       "tag": "items",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "Who are you ?",
+        "What do you do?",
+        "What is your purpose?",
+        "what are you?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "I'm 𝐑𝐮𝐥𝐞 मित्र, your rule expert friend :) i can give you all the details on GAD Act and Rule but i'm still training so please pardon my mistakes if any.",
+        "Myself 𝐑𝐮𝐥𝐞 मित्र, your rule expert friend :)"
       ]
     },
     {
