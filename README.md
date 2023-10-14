@@ -47,11 +47,8 @@ pip install nltk
 
 ## Contributers
 -Chetan Sharma <br>
--Vyom Dixit <br>
 -Srushti Sodavadiya <br>
 -Vineet Kumar Vankar <br>
--Dhiraj Prajapati <br>
--Misa Prajapati
 
 ## :handshake: Contact
 
