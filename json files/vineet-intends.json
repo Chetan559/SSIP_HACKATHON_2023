@@ -1,13 +1,14 @@
 {
     "intents": [
       {
-        "tag": "",
-        "patterns": [
-          ""
-        ],
-        "responses": [
-          ""
-        ]
+        "tags" : "Gujarat Civil Services (Discipline and Appeal) Rules  1971  PART - I GENERAL Short title, Commencement and Application",
+        "patterns":[
+               "What is  Civil Services (Discipline and Appeal) Rules 1971  Short title, Commencement and Application ",
+                "Explain about Civil Services (Discipline and Appeal) Rules 1971  Short title, Commencement and Application"
+         ],
+        "response":[
+               "(a) These rules may be called the Gujarat Civil Services (Discipline and Appeal) Rules, 1971. \n (b) They shall come into force with effect from 15th August, 1971. \n(c) They shall apply to all persons appointed to civil services and posts in connection with the affairs of the State of Gujarat whose conditions of service are regulated in accordance with the rules made under article 309 of the Constitution. Provided that nothing in these rules shall apply to any Government servants who are members of the All India Services or who are Inspectors of Police or Members of the Subordinate ranks of the Police Force. "
+         ]
       },
       {
         "tag": "",
