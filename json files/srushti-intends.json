@@ -1,6 +1,16 @@
 {
     "intents": [
       {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 General Administration Department Notification",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 General Administration Department Notification",
+          "Explain Gujarat Civil Services (Conduct) Rules,1971 General Administration Department Notification"
+        ],
+        "responses": [
+          "CONSTITUTION OF INDIA:-\n No. GS-71/73-CDR/1266-1-G :- In exercise of the powers conferred by Article 309 of the Constitution of India and with previous approval of the Central Government under proviso to sub-section (6) of Section 81 of the Bombay Reorganisation Act 1960"
+        ]
+      },
+      {
         "tag": "",
         "patterns": [
           ""
