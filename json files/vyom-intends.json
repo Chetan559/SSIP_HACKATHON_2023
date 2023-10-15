@@ -1,9 +1,29 @@
 {
     "intents": [
       {
-        "tag": "",
+        "tag": "Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.Confidential GENERAL ADMINISTRATION DEPARTMENT order",
         "patterns": [
-          ""
+          "what is Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.Confidential GENERAL ADMINISTRATION DEPARTMENT order?",
+          "Explain Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.Confidential GENERAL ADMINISTRATION DEPARTMENT order"
+        ],
+        "responses": [
+          "Sachivalaya, Gndhinagar, 1 st November, 1996.\n The following Instructions have been issued by the Governor ofGujarat under rule 15 of the Gujarat Government Rules of Business, 1990.\n GENERAL ADMINISTRATION DEPARTMENT \n Sachivalaya, Gandhinagar, 1st November, 1996.\n In exercise of the powers conferred on him by rule 15 of the Gujarat Government Rules of Business, 1990 and in supersession of the instructions in force immediately before the coming into force of these instructions."
+        ]
+      },
+      {
+        "tag": "Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.PART 1 DEFINITIONS.",
+        "patterns": [
+          "What is Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.PART 1 DEFINITIONS?",
+          "Explain Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.PART 1 DEFINITIONS."
+        ],
+        "responses": [
+          "1. In these Instructions, unless the context otherwise requires: \n (i) 'Cabinet' means the Cabinet as provided in Instruction 2;\n (ii) 'Case' includes the papers under consideration and all previous papers and notes put up in connection therewith to enable the question raised to be disposed of;\n (iii) 'Rules' means the Gujarat Government Rules of Business,1990; \n (iv) 'Schedule' means a Schedule appended to the Rules;\n (v) 'Minister' in relation to the Cabinet shall have the same meaning as is assigned to in clause (c) of rule 2 of the Rules and; in relation to the Council of Ministers; shall include the Ministers of State and the Deputy Ministers.\n (vi) 'Secretary' means a Secretary to the Government of Gujarat and includes an Additional Chief Secretary a Principal Secretary an Additional Secretary a Special Secretary; a Joint Secretary; a Deputy Secretary an Under Secretary and an Assistant Secretary.\n (vii) Words and expressions used in these Instructions but not defined therein; and defined in the Rules shall have the meaning assigned to them in the Rules.\n 2. A matter shall be deemed to be brought before the Cabinet if under a direction of the Chief Minister under clause (2) of rule 9 of the Rules; it is to be brought before all Ministers excluding the Minister of State and the Deputy Ministers;and in these Instructions the expression 'Cabinet'shall be construed accordingly.\n 3. (i) A case shall be deemed to belong to a Department to which under the Schedule to the Rules .the subject matter there of pertains or is mainly related.\n (ii) If any question arises regarding the Department to which a case belongs the decision of the Minister charge of the Departments concerned if all such Departments are in charge of the same Minister shall be final. If such Departments are under different Minister who;after discussion; are unable to agree as to the Department to which the case belongs. The Chief Minister shall decide the question."
+        ]
+      },
+      {
+        "tag": "Instructions regarding the Business of the Government issued under rule 15of the Gujarat Government.Rules of Business, 1990.PART II GENERAL",
+        "patterns": [
+          "What is "
         ],
         "responses": [
           ""
