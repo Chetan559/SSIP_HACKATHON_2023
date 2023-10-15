@@ -27,10 +27,10 @@ This is a Project to make a Rule Expert Chatbot which takes Query from the User 
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#4478c7](https://via.placeholder.com/10/4478c7?text=+) #4478c7 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Primary Color | ![#4CAF50](https://via.placeholder.com/10/4CAF50?text=+) #4CAF50 |
+| Secondary Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Accent Color | ![#F0F0F0](https://via.placeholder.com/10/F0F0F0?text=+) #F0F0F0 |
+| Text Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
 
 ## :toolbox: Getting Started
 
