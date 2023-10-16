@@ -37,6 +37,21 @@ body {
     border-top-right-radius: 10px;
 }
 
+nav {
+    background-color: #171717;
+    overflow: hidden;
+    height:40px;
+}
+
+
+nav a {
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    color: whitesmoke;
+}
+
 .chat-box {
     border: 1px solid #ccc;
     border-radius: 5px;

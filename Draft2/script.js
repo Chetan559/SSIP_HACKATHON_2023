@@ -12,6 +12,7 @@ function sendMessage() {
 
     // Send the user message to the backend
     fetch('/predict', {
+    // fetch('https://34rkr9k0-5000.inc1.devtunnels.ms/predict', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
