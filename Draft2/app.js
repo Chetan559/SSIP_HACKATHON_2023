@@ -1,9 +1,8 @@
-class Chatbox {
+class chatbox {
     constructor() {
         this.args = {
-            openButton: document.querySelector('.chatbox__button'),
-            chatBox: document.querySelector('.chatbox__support'),
-            sendButton: document.querySelector('.send__button')
+            chatBox: document.querySelector('.chatbox'),
+            sendButton: document.querySelector('#send-button')
         }
 
         this.state = false;
@@ -11,31 +10,18 @@ class Chatbox {
     }
 
     display() {
-        const {openButton, chatBox, sendButton} = this.args;
+        const {chatBox, sendButton} = this.args;
 
-        openButton.addEventListener('click', () => this.toggleState(chatBox))
+        sendButton.addEventListener( 'click',  () => this.onSendButton(chatBox))
 
-        sendButton.addEventListener('click', () => this.onSendButton(chatBox))
-
-        const node = chatBox.querySelector('input');
-        node.addEventListener("keyup", ({key}) => {
+        const node = chatBox.querySelector( 'input');
+        node.addEventListener( "keyup",  ({key: string }) => {
             if (key === "Enter") {
                 this.onSendButton(chatBox)
             }
         })
     }
-
-    toggleState(chatbox) {
-        this.state = !this.state;
-
-        // show or hides the box
-        if(this.state) {
-            chatbox.classList.add('chatbox--active')
-        } else {
-            chatbox.classList.remove('chatbox--active')
-        }
-    }
-
+    
     onSendButton(chatbox) {
         var textField = chatbox.querySelector('input');
         let text1 = textField.value
@@ -46,7 +32,7 @@ class Chatbox {
         let msg1 = { name: "User", message: text1 }
         this.messages.push(msg1);
 
-        fetch('http://127.0.0.1:5500/predict', {
+        fetch( '/Backed_Draft_01/app.py/predict', {
             method: 'POST',
             body: JSON.stringify({ message: text1 }),
             mode: 'cors',
@@ -56,7 +42,7 @@ class Chatbox {
           })
           .then(r => r.json())
           .then(r => {
-            let msg2 = { name: "Sam", message: r.answer };
+            let msg2 = { name: "Rule_Mitra", message: r.answer };
             this.messages.push(msg2);
             this.updateChatText(chatbox)
             textField.value = ''
@@ -71,7 +57,7 @@ class Chatbox {
     updateChatText(chatbox) {
         var html = '';
         this.messages.slice().reverse().forEach(function(item, index) {
-            if (item.name === "Sam")
+            if (item.name === "Rule_Mitra")
             {
                 html += '<div class="messages__item messages__item--visitor">' + item.message + '</div>'
             }
@@ -89,3 +75,4 @@ class Chatbox {
 
 const chatbox = new Chatbox();
 chatbox.display();
+

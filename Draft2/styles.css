@@ -37,10 +37,21 @@ body {
     border-top-right-radius: 10px;
 }
 
-.chat-messages {
+.chat-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
     flex-grow: 1;
     padding: 20px;
-    overflow-y: auto;
+    overflow-y: scroll;
+}
+
+.chat-message {
+    margin-bottom: 10px;
+}
+
+.chat-message span {
+    font-weight: bold;
+    margin-right: 10px;
 }
 
 .chat-input {
@@ -50,15 +61,15 @@ body {
     align-items: center;
 }
 
-input[type="text"] {
+.chat-input input {
     flex-grow: 1;
     padding: 10px;
     border: 1px solid #cccccc;
     border-radius: 5px;
     outline: none;
 }
-    
-button {
+
+.chat-input button {
     background-color: #4caf50;
     color: #ffffff;
     padding: 10px 20px;
@@ -68,7 +79,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.chat-input button:hover {
     background-color: #45a049;
 }
 

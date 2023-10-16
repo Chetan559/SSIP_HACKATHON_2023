@@ -1,42 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel="stylesheet" href="chat.css">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="chat.css"/>
-    <link rel="icon" href="/Draft2/robot-or-chatbot-logo-template-chat-bot-icon-vector-35064959.png"/>
-    <title>Document</title>
+    <title>Chatbot</title>
 </head>
 <body>
+<div class="container">
     <div class="chatbox">
         <div class="chatbox__support">
             <div class="chatbox__header">
-                Chat support!
-            </div>
-            <div class="messages">
-                <div>
-                    <div class="messages__item--visitor">
-                        Hi!
-                    </div>
-                    <div class="messages__item--operator">
-                        What is it?
-                    </div>
-                    .<div class="messages__item--typing">
-                        <span class="messages__dot"></span>
-                        <span class="messages__dot"></span>
-                        <span class="messages__dot"></span>
-                    </div>
+                <div class="chatbox__image--header">
+                    <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+                </div>
+                <div class="chatbox__content--header">
+                    <h4 class="chatbox__heading--header">Chat support</h4>
+                    <p class="chatbox__description--header">Hi. My name is Sam. How can I help you?</p>
                 </div>
             </div>
+            <div class="chatbox__messages">
+                <div></div>
+            </div>
             <div class="chatbox__footer">
-                <input type="text" placeholder="Write a message">
+                <input type="text" placeholder="Write a message...">
+                <button class="chatbox__send--footer send__button">Send</button>
             </div>
         </div>
         <div class="chatbox__button">
-            <button>I'm a button!</button>
+            <button><img src="./images/chatbox-icon.svg" /></button>
         </div>
     </div>
-    <script src="Chat.js"></script>
+</div>
+
+
     <script src="app.js"></script>
+    <script src="Chat.js"></script>
+
 </body>
 </html>
