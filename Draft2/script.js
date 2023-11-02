@@ -11,21 +11,21 @@ function sendMessage() {
     appendMessage('You', userMessage);
 
     // Send the user message to the backend
-    fetch('http://localhost:3000/predict', {
+    fetch('http://localhost:5500/predict', {
         method: 'POST',
+        mode: 'cors',
         headers: {
             'Content-Type': 'application/json'
         },
         body: JSON.stringify({ message: userMessage })
     })
-    .then(response => response.json())
-    .then(data => {
-        appendMessage('Rule_Mitra', data.answer);
+    .then(r => r.json())
+    .then(r => {
+        appendMessage('Rule_Mitra', r.answer);
     })
     .catch(error => console.error('Error:', error));
 
-    // Clear the input
-    document.getElementById('user-input').value = '';
+    document.getElementById('user-input').value = ''; //clear input
 }
 
 function handleKeyPress(event) {
