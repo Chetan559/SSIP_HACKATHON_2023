@@ -41,6 +41,7 @@ nav {
     background-color: #171717;
     overflow: hidden;
     height:40px;
+    z-index: 1;
 }
 
 
