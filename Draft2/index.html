@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐑𝐮𝐥𝐞 मित्र ChatBot</title>
-    <link rel="icon" href="robot-or-chatbot-logo-template-chat-bot-icon-vector-35064959.png"/>
+    <title>𝐑𝐮𝐥𝐞 मित्र Chatbot</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="robot-or-chatbot-logo-template-chat-bot-icon-vector-35064959.png"/>
 </head>
 <body>
     <div class="chat-container">
@@ -16,12 +17,20 @@
                 <img title="General Administration Department (Personnel Division), Govt. of Gujarat" alt="General Administration Department (Personnel Division), Govt. of Gujarat" src="personnel-logo-eng-2.png" id="Department-logo">
             </div>
         </div>
-        <div class="chat-messages" id="chat-messages">
-            <!-- Chat messages will be displayed here -->
+        <nav id="hover">     
+            <a  href="https://gad.gujarat.gov.in/Personnel/acts-and-rules.htm">Source</a>
+            <a  href="#">Feedback</a>
+            <a  href="./about.html">About</a>
+       </nav> 
+        <div class="chat-box" id="chat-box">
+            <div class="chat-message bot-message">
+                <span>Rule_Mitra:</span>
+                <p>Welcome! How can I assist you today?</p>
+            </div>
         </div>
         <div class="chat-input">
             <input type="text" id="user-input" placeholder="Type your message...">
-            <button id="send-button">Send</button>
+            <button id="send-button" onclick="sendMessage()">Send</button>
         </div>
     </div>
     <script src="script.js"></script>

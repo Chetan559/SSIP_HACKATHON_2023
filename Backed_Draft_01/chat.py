@@ -1,6 +1,5 @@
 import random
 import json
-
 import torch
 
 from model import NeuralNet
@@ -8,8 +7,12 @@ from nltk_utils import bag_of_words, tokenize
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-with open('intents.json', 'r') as json_data:
+# with open('intents.json', 'r') as json_data:
+#     intents = json.load(json_data)
+
+with open('intents.json', 'r', encoding='utf-8') as json_data:
     intents = json.load(json_data)
+
 
 FILE = "data.pth"
 data = torch.load(FILE)
@@ -25,7 +28,7 @@ model = NeuralNet(input_size, hidden_size, output_size).to(device)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "𝐑𝐮𝐥𝐞 मित्र"
+bot_name = "Rule_Mitra"
 print("Let's chat! (type 'quit' to exit)")
 while True:
     # sentence = "do you use credit cards?"
