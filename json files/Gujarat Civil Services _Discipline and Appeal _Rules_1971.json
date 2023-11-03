@@ -1,7 +1,7 @@
 {
     "intents": [
       {
-        "tag": "Definitions",
+        "tag": "Definition_of_Appointing_Authority",
         "patterns": [
           "What is the definition of 'Appointing Authority' ?",
           "Define 'Appointing Authority'.",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "tag": "Definition",
+        "tag": "Definition_of_Disciplinary_Authority",
         "patterns": [
           "What is Disciplinary Authority' ?",
           "Define 'Disciplinary Authority'.",
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "tag": "Defination",
+        "tag": "Definition_of_Government_servant",
         "patterns": [
           "what is Government servant ?",
           "Who is Government servant ?",
