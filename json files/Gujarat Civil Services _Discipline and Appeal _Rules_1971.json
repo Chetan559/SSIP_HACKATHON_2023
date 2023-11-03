@@ -1,0 +1,68 @@
+{
+    "intents": [
+      {
+        "tag": "Definitions",
+        "patterns": [
+          "What is the definition of 'Appointing Authority' ?",
+          "Define 'Appointing Authority'.",
+      "Define 'Appointing Authority' as per the Gujarat Civil Services.",
+      "What is 'Appointing Authority'?"
+        ],
+        "responses": [
+          "In rules, 'Appointing Authority' refers to the authority empowered to make appointments to the service, grade, or post of a Government servant.\nAppointing Authority as per the Gujarat Civil Services refers to the authority that is empowered to make appointments to civil service posts. The appointing authority is responsible for determining the qualifications and eligibility criteria for each post, and for selecting the most qualified candidates.\nThe Gujarat Civil Services (Classification and Recruitment) (General) Rules, 1967, specify the different levels of appointing authority for civil service posts. The highest level of appointing authority is the State Government, which can make appointments to all civil service posts, regardless of their level or rank."
+        ]
+      },
+      {
+        "tag": "Definition",
+        "patterns": [
+      "What is Disciplinary Authority' ?",
+      "Define 'Disciplinary Authority'.",
+      "Define 'Disciplinary Authority' as per the Gujarat Civil Services.",
+      "Define 'Disciplinary Authority' as per the Gujarat Civil Services (Discipline and Appeal) Rules, 1971."
+        ],
+        "responses": [
+      "'Disciplinary Authority' is the authority competent under these rules to impose disciplinary penalties.\nDisciplinary Authority in the context of the Gujarat Civil Services refers to the authority that is empowered to initiate and conduct disciplinary proceedings against a government servant for alleged misconduct. The disciplinary authority is also responsible for imposing penalties on government servants who are found guilty of misconduct.\nThe Gujarat Civil Services (Discipline and Appeal) Rules, 1971, specify the different levels of disciplinary authority for government servants. The highest level of disciplinary authority is the State Government, which can initiate disciplinary proceedings against any government servant, regardless of their level or rank."
+        ]
+      },
+      {
+        "tag": "Defination",
+        "patterns": [
+      "what is Government servant ?",
+      "Who is Government servant ?",
+      "what refers to Government servant?",
+      "Define Government servant as per the Gujarat Civil Services.",
+      "What does 'Government servant' mean in the context of Gujarat Civil Services (Discipline and Appeal) Rules, 1971.?",
+      "What does 'Government servant' mean in the context of these rules?"
+        ],
+        "responses": [
+      "The term 'government servant', as defined in the Gujarat Civil Services (Discipline and Appeal) Rules, 1971, means any person who is employed in civil capacity under the Government of Gujarat, or under any body or authority controlled by the Government of Gujarat, and who is paid out of the revenues of the State of Gujarat.\nThe definition of 'government servant' is very broad and includes a wide range of employees, including:\n->Civil servants, such as IAS, IPS, and IFS officers\n->Employees of state-owned enterprises and government undertakings\n->Employees of local governments, such as municipalities and district panchayats\n->Teachers and other employees of government-aided educational institutions\n->Employees of hospitals and other healthcare institutions run by the government\n->Employees of research institutions and other organizations funded by the government\nThe Gujarat Civil Services (Discipline and Appeal) Rules, 1971, apply to all government servants, regardless of their level or rank. These rules provide for a comprehensive framework for disciplinary proceedings against government servants who are alleged to have committed misconduct."
+        ]
+      },
+      {
+        "tag": "ShortTitleCommencement",
+        "patterns": [
+          "When do the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 come into force?",
+          "What is the short title of the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 and when did they become applicable?",
+          "To whom do the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 apply?",
+          "Who is included in Gujarat Civil Services rules?"
+        ],
+        "responses": [
+          "The Gujarat Civil Services (Discipline and Appeal) Rules, 1971, come into force from 15th August, 1971. They apply to all persons appointed to civil services and posts in connection with the affairs of the State of Gujarat, whose conditions of service are regulated under Article 309 of the Constitution, except for members of the All India Services, Inspectors of Police, and Members of the Subordinate ranks of the Police Force."
+        ]
+      },
+      {
+        "tag": "SpecialProvisionsRights",
+        "patterns": [
+          "What are the special provisions that can be made for a Government servant under Gujarat Civil Services rules?",
+          "What special provisions can the appointing authority make for a Government servant under Gujarat Civil Services rules?",
+          "What special provisions can the appointing authority make for a Government servant under these rules?",
+          "Does the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 protect existing rights and privileges of Government servants?"
+        ],
+        "responses": [
+          "Under the rules, special provisions can be made for a Government servant in specific matters through agreement with the appointing authority. These rules do not deprive any Government servant of rights or privileges conferred by existing laws or agreements between the person and the Government at the time of the rules' commencement.",
+          "The Appointing Authority under Gujarat Civil Services Rules has the power to make special provisions for a Government servant in the following cases:\nAppointment on ad-hoc basis: The Appointing Authority can appoint a Government servant on an ad-hoc basis for a period of up to one year, if it is in the public interest to do so. The Appointing Authority must record the reasons for making such an appointment in writing.\nAppointment on contract basis: The Appointing Authority can appoint a Government servant on a contract basis for a period of up to five years, if it is in the public interest to do so. The terms and conditions of the contract must be clearly specified in writing.\nAppointment on deputation: The Appointing Authority can depute a Government servant to another department or organization for a period of up to five years, if it is in the public interest to do so. The Appointing Authority must obtain the consent of the Government servant before deputing them.\nAppointment on re-employment basis: The Appointing Authority can re-employ a Government servant who has retired, for a period of up to five years, if it is in the public interest to do so. The terms and conditions of the re-employment must be clearly specified in writing.\nRelaxation in qualifications and eligibility criteria: The Appointing Authority can relax the qualifications and eligibility criteria for a particular post, if it is in the public interest to do so. The Appointing Authority must record the reasons for such relaxation in writing.\nIn addition to the above provisions, the Appointing Authority can also make special provisions for a Government servant in the following cases:\nPromotion: The Appointing Authority can promote a Government servant to a higher post, even if they have not completed the required period of service, if it is in the public interest to do so.\nPay: The Appointing Authority can grant a special pay to a Government servant, if it is in the public interest to do so.\nLeave: The Appointing Authority can grant special leave to a Government servant, if it is in the public interest to do so.\nDisciplinary proceedings: The Appointing Authority can waive or reduce the penalty imposed on a Government servant in disciplinary proceedings, if it is in the public interest to do so.\nThe Appointing Authority has the discretion to make special provisions for a Government servant in the above cases, but it must exercise its discretion judiciously and in the public interest."
+        ]
+      }
+    ]
+  }
+  
