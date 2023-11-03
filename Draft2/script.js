@@ -11,15 +11,15 @@ function sendMessage() {
     appendMessage('You', userMessage);
 
     // Send the user message to the backend
-    fetch('http://localhost:5500/predict', {
+    fetch('http://127.0.0.1:5000/predict', {
         method: 'POST',
         mode: 'cors',
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ message: userMessage })
+        body: JSON.stringify({message: userMessage })
     })
-    .then(r => r.json())
+    .then(r => r.json())  
     .then(r => {
         appendMessage('Rule_Mitra', r.answer);
     })
@@ -35,10 +35,10 @@ function handleKeyPress(event) {
     }
 }
 
-// Add an event listener to the input field to listen for Enter key press
+// this will send message  to the input field when Enter key is pressed 
 const userInput = document.getElementById('user-input');
 userInput.addEventListener('keypress', handleKeyPress);
 
-// Automatically scroll to the bottom of the chat box
+// scroll to the bottom of the chat box automatically
 const chatBox = document.getElementById('chat-box');
 chatBox.scrollTop = chatBox.scrollHeight;

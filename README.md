@@ -46,10 +46,12 @@ pip install nltk
 ```
 
 ## Contributers
--Chetan Sharma <br>
--Srushti Sodavadiya <br>
--Vineet Kumar Vankar <br>
--Vyom Dixit <br>
+->Chetan Sharma <br>
+->Srushti Sodavadiya <br>
+->Vineet Kumar Vankar <br>
+->Vyom Dixit <br>
+->Dhiraj Prajapati<br>
+->Misa Prajapati<br>
 
 ## :handshake: Contact
 
