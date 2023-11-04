@@ -1,33 +1,17 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, request, jsonify
 from flask_cors import CORS
-from chat import get_response  
+from chat import get_response  # Import the function for generating responses from chat.py
 
-app = Flask(__name__)
-CORS(app)
+app = Flask(__name__)  # Createing a Flask web application 
+CORS(app)  # Enable Cross-Origin Resource Sharing (CORS) for handling requests from different origins
 
-@app.route('/predict', methods=['POST', 'OPTIONS'])
+@app.post("/predict")  # Defining a route for handling POST requests to "/predict"
 def predict():
-    text = request.get_json().get("message")
-    if request.method == 'OPTIONS':
-        # Respond to the OPTIONS request with the necessary CORS headers
-        response = app.make_default_options_response()
-    else:
-        # Extract the user message from the request
-        user_message = request.json['message']
-        
-        # Process the message and obtain a response from your model
-        # Replace this with your actual model prediction logic
-        response = get_response(text)  # Corrected variable name 'responce' to 'response'
-        message = {"answer": response}  # Corrected variable name 'responce' to 'response'
-        return jsonify(message)
+    text = request.get_json().get("message")  # Get the "message" from the request's JSON data
+    response = get_response(text)  # Get a response using the 'get_response' function from chat.py
+    message = {"answer": response }  # Createing a dictionary with the response
+    return jsonify(message)  # Returning the response as a JSON object
 
-    # Add the appropriate CORS headers to the response
-    response.headers['Access-Control-Allow-Origin'] = '*'
-    response.headers['Access-Control-Allow-Methods'] = 'POST, OPTIONS'
-    response.headers['Access-Control-Allow-Headers'] = 'Content-Type'
-
-    return response
-
-# Run the Flask app
+# Run the Flask app if this script is the main entry point in debug mode 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=3000)
+    app.run(debug=True)  

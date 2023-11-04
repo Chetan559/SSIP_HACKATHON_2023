@@ -1,5 +1,4 @@
 import numpy as np
-import random
 import json
 
 import torch
@@ -9,6 +8,7 @@ from torch.utils.data import Dataset, DataLoader
 from nltk_utils import bag_of_words, tokenize, stem
 from model import NeuralNet
 
+# opeinging intents.json file in reading mode
 with open('intents.json', 'r', encoding='utf-8') as f:
     intents = json.load(f)
 
@@ -19,10 +19,10 @@ xy = []
 # loop through each sentence in our intents patterns
 for intent in intents['intents']:
     tag = intent['tag']
-    # add to tag list
+    # adding to tag list
     tags.append(tag)
     for pattern in intent['patterns']:
-        # tokenize each word in the sentence
+        # tokenizeing each word in the sentence
         w = tokenize(pattern)
         # add to our words list
         all_words.extend(w)
@@ -30,6 +30,7 @@ for intent in intents['intents']:
         xy.append((w, tag))
 
 # stem and lower each word
+# Generate a new list of stemmed words from the 'all_words' list, excluding any words that are in the 'ignore_words' list.
 ignore_words = ['?', '.', '!']
 all_words = [stem(w) for w in all_words if w not in ignore_words]
 # remove duplicates and sort
@@ -51,10 +52,11 @@ for (pattern_sentence, tag) in xy:
     label = tags.index(tag)
     y_train.append(label)
 
+# using numpy for X and Y
 X_train = np.array(X_train)
 y_train = np.array(y_train)
 
-# Hyper-parameters 
+# parameters for Data.pth file
 num_epochs = 1000
 batch_size = 8
 learning_rate = 0.001
@@ -84,15 +86,19 @@ train_loader = DataLoader(dataset=dataset,
                           shuffle=True,
                           num_workers=0)
 
+# check whether gpu is availabe if yes than use cuda else cpu
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
+# calling neuralNet form model.py
 model = NeuralNet(input_size, hidden_size, output_size).to(device)
 
 # Loss and optimizer
 criterion = nn.CrossEntropyLoss()
+# Initialize the optimizer to update the model's parameters during training using the Adam optimization algorithm.
+# The learning rate (lr) determines the step size for parameter updates.
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
-# Train the model
+# Training the model
 for epoch in range(num_epochs):
     for (words, labels) in train_loader:
         words = words.to(device)

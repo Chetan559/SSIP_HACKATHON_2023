@@ -41,6 +41,7 @@ nav {
     background-color: #171717;
     overflow: hidden;
     height:40px;
+    z-index: 1;
 }
 
 
@@ -143,3 +144,7 @@ nav a {
             height: auto; 
         }
     }
+
+.about{
+   margin: 0 15px 20px 15px;
+}    

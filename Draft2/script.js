@@ -1,3 +1,4 @@
+// Function to append a message to the chat box
 function appendMessage(sender, message) {
     const chatBox = document.getElementById('chat-box');
     const newMessage = document.createElement('div');
@@ -6,12 +7,13 @@ function appendMessage(sender, message) {
     chatBox.appendChild(newMessage);
 }
 
+// Function to send a user message to the backend and handle the response
 function sendMessage() {
     const userMessage = document.getElementById('user-input').value;
     appendMessage('You', userMessage);
 
-    // Send the user message to the backend
-    fetch('http://localhost:5500/predict', {
+    // Send the user message to the backend using a POST request at required server
+    fetch('http://127.0.0.1:5000/predict', {
         method: 'POST',
         mode: 'cors',
         headers: {
@@ -19,23 +21,24 @@ function sendMessage() {
         },
         body: JSON.stringify({ message: userMessage })
     })
-    .then(r => r.json())
+    .then(r => r.json())  // Parse the response as JSON
     .then(r => {
         appendMessage('Rule_Mitra', r.answer);
     })
     .catch(error => console.error('Error:', error));
 
-    document.getElementById('user-input').value = ''; //clear input
+    document.getElementById('user-input').value = ''; // Clear the input field
 }
 
+// Function to handle the Enter key press and send a message
 function handleKeyPress(event) {
     if (event.keyCode === 13) {
-        event.preventDefault(); // Prevents the default Enter key behavior (e.g., new line)
+        event.preventDefault(); // Prevent the default Enter key behavior (e.g., new line)
         sendMessage();
     }
 }
 
-// Add an event listener to the input field to listen for Enter key press
+// Attach an event listener to the user input field to handle Enter key presses
 const userInput = document.getElementById('user-input');
 userInput.addEventListener('keypress', handleKeyPress);
 
