@@ -12,7 +12,8 @@ function sendMessage() {
     const userMessage = document.getElementById('user-input').value;
     appendMessage('You', userMessage);
 
-    // Send the user message to the backend using a POST request at required server
+    // Send the user message to the backend using a POST request at required server 
+    // CHANGE HTTPS://127.0.0.1:5000 WITH YOUR BACKEND'S DEPLOYMENT ADDRESS 
     fetch('http://127.0.0.1:5000/predict', {
         method: 'POST',
         mode: 'cors',
