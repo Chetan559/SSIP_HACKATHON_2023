@@ -5,16 +5,18 @@ import torch
 from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
 
+# check whether gpu is availabe if yes than use cuda else cpu
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-
+# loading intents.json file
 with open('intents.json', 'r', encoding='utf-8') as json_data:
     intents = json.load(json_data)
 
-
+# loading Data.pth file
 FILE = "data.pth"
 data = torch.load(FILE)
 
+# calling parameters used in data.pth files
 input_size = data["input_size"]
 hidden_size = data["hidden_size"]
 output_size = data["output_size"]
@@ -31,6 +33,7 @@ bot_name = "Rule_Mitra"
 def get_response(msg):
     sentence = tokenize(msg)
     X = bag_of_words(sentence, all_words)
+    # Reshape the array 'X' into a new shape with a single row and the same number of columns as the original array.
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)
 
@@ -51,7 +54,7 @@ def get_response(msg):
 if __name__ == "__main__":
     print("Let's chat! (type 'quit' to exit)")
     while True:
-        # sentence = "do you use credit cards?"
+
         sentence = input("You: ")
         if sentence == "quit":
             break
