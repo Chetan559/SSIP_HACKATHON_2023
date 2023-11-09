@@ -2,8 +2,15 @@
 function appendMessage(sender, message) {
     const chatBox = document.getElementById('chat-box');
     const newMessage = document.createElement('div');
-    newMessage.className = 'chat-message';
-    newMessage.innerHTML = `<span>${sender}:</span><p>${message}</p>`;
+    
+    newMessage.innerHTML = `<p>${message}</p>`;
+    
+    if (sender === 'Rule_Mitra') {
+        newMessage.className = 'chat-message chat-message--Bot';
+    } else {
+        newMessage.className = 'chat-message chat-message--User';
+    }
+    
     chatBox.appendChild(newMessage);
 }
 
@@ -12,9 +19,9 @@ function sendMessage() {
     const userMessage = document.getElementById('user-input').value;
     appendMessage('You', userMessage);
 
-    // Send the user message to the backend using a POST request at required server 
+     // Send the user message to the backend using a POST request at required server 
     // CHANGE HTTPS://127.0.0.1:5000 WITH YOUR BACKEND'S DEPLOYMENT ADDRESS 
-    fetch('http://127.0.0.1:5000/predict', {
+    fetch('https://127.0.0.1:5000/predict', {
         method: 'POST',
         mode: 'cors',
         headers: {
@@ -26,7 +33,10 @@ function sendMessage() {
     .then(r => {
         appendMessage('Rule_Mitra', r.answer);
     })
-    .catch(error => console.error('Error:', error));
+    .catch(error => {
+        console.error('Error:', error);
+        appendMessage('Rule_Mitra', 'Apologies, something went wrong. Please try again.');
+    });
 
     document.getElementById('user-input').value = ''; // Clear the input field
 }
