@@ -1,15 +1,290 @@
 {
     "intents": [
       {
-        "tag": "",
+        "tag": "gujarat civil servicis classification and recruitment (general) rules - 1967",
         "patterns": [
-          "",
-          "",
-          ""
+          "What is Short title, commencement and application of gujarat civil servicis classification and recruitment (general) rules - 1967?",
+          "Explain Short title, commencement and application of gujarat civil servicis classification and recruitment (general) rules - 1967",
+          "Define Short title, commencement and application of gujarat civil servicis classification and recruitment (general) rules - 1967"
+        ],
+        "responses": [
+          "1) These rules may be called the Gujarat Civil Services Classificationand Recruitment (General) Rules, 1967.\n2) They shall come into force at once.\n3) Subject to sub-rule (4) they shall apply to services and posts, the recruitment to which is regulated in accordance with the rules made under article - 309 of the Constitution.\n4) Nothing in these rules shall apply to member of the subordinate ranks of the police force.\n Explanation :- For the purposes of sub-rule (4), the expression “subordinate ranks” shall have the meaning assigned to it as in the [ Gujarat ] Police Act, 1951.\n Definition :- In these rules, unless the context otherwise requires\n (i) “Commission” means the Gujarat Public Service Commission;\n (i-a) “Economically Weaker Sections ” means such castes, classes and groups as are determined by the State Government as Economically Weaker Sections by the Government Resolution, Social Justice and Empowerment Department, No: EWS/122019/45903/A,dated: the 23rd January, 2019.\n (ii) “Inferior services” means the Services and posts specified as such in sub-rule (3) of rule (4);\n (iii) “Post” means a post under the State Government included in the State Services or Subordinate Service;\n (iv) “Scheduled Castes” means such castes, races or tribes or parts of or groups within such castes, races or tribes as are deemed to be Scheduled Castes in relation to the State of Gujarat under Article 341 of the Constitution of India;\n (v) “Scheduled Tribes” means such tribes or tribal communities or parts of or groups within such tribes or tribal communities as are deemed to be Scheduled Tribes in relation to the State of Gujarat under Article 342 of the Constitution of India;\n (vi) “Service” means any service under the State Government included in the State Service or Subordinate Services;\n  (vi-a) “Socially and Educationally Backward Class” means such castes, classes and groups as are determined by the State Government as Socially and Educationally Backward Class by Government Resolution, Labour, Social Welfare and Tribal Development Department, No.BCR/1078/13734/H, dated 1st April, 1978;\n (vii) “State Government” means the Government of Gujarat;\n (viii) “State Services” means the services and posts specified as such in sub rule(1) of rule 4;\n (ix) “Subordinate Services” means the services and posts specified as such in sub-rule (2) of rule 4;\n (x) Words and expressions used but not defined in these rules shall have the meaning assigned to them in the [Gujarat Civil Services Rules, 2002]."
+        ]
+      },
+      {
+        "tag": "Classification of services and posts",
+        "patterns": [
+          "What is Classification of services and posts?",
+          "Explain Classification of services and posts",
+          "Define Classification of services and posts"
+        ],
+        "responses": [
+          "\n(1) The Civil Services of State of Gujarat shall under orders of the State Government be classified as follows :-\n  (i) Class - I\n (ii) Class - II \n iii) Class - III ; and\n (iv) Class - IV\n(2) If a Service consists of more than one grade, different grade may be included invdifferent Classes.\n(3) Civil posts under the State Government other than those to which these rules do not apply shall by a general or special order of the State Government be classified as follows :\n (i) Class - I\n (ii) Class - II\n (iii) Class - III ; and\n (iv) Class - IV\n(4) Any order made by the competent authority and in force immediately before the commencement, of these rules relating to classification of the Civil Services of the State of Gujarat and Civil posts under the State Government shall continue in force until modified or rescinded by an order of the State Government under this rule or unless it is in any way inconsistent with the provisions of these rules.\n(4) Any service or post shall unless otherwise directed by the State Government by a general or special order made in that behalf be deemed to belong -\n (a) to Class - II if it is of a gazetted rank ; and\n (b) to Class - III in any other case."
+        ]
+      },
+      {
+        "tag": "State services, Subordinate Services and Inferior Services",
+        "patterns": [
+          "What is State services, Subordinate Services and Inferior Services?",
+          "Explain State services, Subordinate Services and Inferior Services",
+          "Define State services, Subordinate Services and Inferior Services"
+        ],
+        "responses": [
+          "(1) The Services and posts classified as Class-I or Class - II shall be known as State Services.\n(2) The services and posts classified as Class - III shall be known as Subordinate Services.\n(3) The Services and posts classified as Class - IV shall be known as Inferior Services."
+        ]
+      },
+      {
+        "tag": "Physical fitness in general provisions regarding recruitment to any service or post",
+        "patterns": [
+          "What is Physical fitness in general provisions regarding recruitment to any service or post?",
+          "Explain Physical fitness in general provisions regarding recruitment to any service or post",
+          "Define Physical fitness in general provisions regarding recruitment to any service or post"
+        ],
+        "responses": [
+          "\n Subject to the provisions of rules 11, 12, 13, 14 and 15 of the Gujarat Civil Services (General Conditions of Services) Rules, 2002, no person shall be appointed to any service or post, if he has failed to pass such medical test of physical fitness as may be prescribed by the State Government;\n Provided that where an appointment is made by promotion or transfer of a person who is already in service of the Government of Gujarat, no medical test shall ordinarily be required."
+        ]
+      },
+      {
+        "tag": "Evidence of good character in general provisions regarding recruitment to any service or post",
+        "patterns": [
+          "What is Evidence of good character in general provisions regarding recruitment to any service or post?",
+          "Explain Evidence of good character in general provisions regarding recruitment to any service or post",
+          "Define Evidence of good character in general provisions regarding recruitment to any service or post"
         ],
         "responses": [
           ""
         ]
-      }
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "patterns": [
+          "What is ",
+          "Explain ",
+          "Define "
+        ],
+        "responses": [
+          ""
+        ]
+      },
     ]
 }
