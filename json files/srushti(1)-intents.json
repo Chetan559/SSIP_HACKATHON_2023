@@ -210,80 +210,25 @@
         ]
       },
       {
-        "tag": "",
+        "tag": "Appointment by relaxation of rules",
         "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
+          "What is Appointment by relaxation of rules?",
+          "Explain Appointment by relaxation of rules",
+          "Define Appointment by relaxation of rules"
         ],
         "responses": [
-          ""
+          " Notwithstanding anything contained in these rules, the State Government may in the interest of Public service :-\n (i) fill up a post by appointment of an officer of Defense Service or All India Service,\n (ii) Make appointment to any service or post by a method other than that prescribed under these rules, or\n (iii) relax any of the provisions of these rules: Provided that where the appointment to any service or post is to be made in consultation with Commission, no such appointment or relaxation under clauses (ii) or (iii) above shall be made except in consultation with the Commission.\n 16.A Where a Government Servant temporarily appointed to a post is selected by the Commission for appointment to that post, the commission may, notwithstanding anything contained in the recruitment rules relating to that post in respect of period of probation, while recommending appointment of such Government servant to that post also recommend reduction in the period of probation in respect of such Government servant by such period which does not exceed the period for which such Government servant has rendered service in that post prior to his selection by the Commission.\n 16.B Saving : Nothing in these rules or any rules or orders relating to recruitment in or promotion to any service or posts included in the State Services or Subordinate services shall affect any orders made by the State Government relating to -\n  (a) Reservations to be made in that service or in relation to those posts in pursuance of clause (4) of article 16 of the Constitution,\n  (b) relaxation of age limit, and\n  (c) Other concessions.\n In respect of persons belonging to the Scheduled Castes, Scheduled Tribes and other Backward Classes in the State.\n 16.C Notwithstanding anything contained in these rules or in any rules or orders relating to recruitment to any service or post included in the State, Subordinate or inferior services under the State, the Upper age limit prescribed for appointment by direct selection to such service or post shall be relaxed for FIVE years as far as it relates to the advertisements given by the Gujarat Public Service Commission and all other Recruiting Authorities / Agencies during the year, 1992 for recruitment in the said year. This relaxation in the upper age limit shall also be applicable to all the recruitment done through the Employment Exchanges etc., in the year, 1992.\n 16.D Notwithstanding anything contained in these rules or in any rules or orders relating to recruitment to any service or post included in the State Services, Subordinate Services or inferior services under the State, the Upper age limit prescribed for appointment through competitive examination held for the purpose or by direct selection, to such service or post shall be relaxed for five years as far as it relates to the advertisements given by the Gujarat Public Service Commission and all other Recruiting Authorities or Agencies during the calendar year 1999. This shall be in addition to relaxation in upper age limit available in rule - 8 and other rules and orders if any. XXX2 “16E. Notwithstanding anything contained in these rules or in any rules or orders relating to recruitment to any service or post included in the State, Subordinate or Inferior Services under the State, the upper age limit prescribed for appointment through competitive examination held for the purpose or by direct selection, to such service or post shall be relaxed for five years as far as it relates to the advertisement given by the Gujarat Public Service Commission and all other Recruiting Authorities or Agencies during the period from 17th August, 2005 to 16th August, 2006. This relaxation in the upper age limit shall be in addition to the relaxation available under rule 8 or any other rules or orders, if any made in this behalf.\n 16.F Notwithstanding anything contained in these rules or in any rules or orders relating to recruitment to any service or post included in the State, Subordinate or Inferior Services under the State, the upper age limit prescribed for appointment through competitive examination held for the purpose or by direct selection, to such service or post shall be relaxed for three years as far as it relates to the advertisement given by the Gujarat Public Service Commission and all other Recruiting Authorities or Agencies during the period from 16th August, 2008 to 15th August, 2009. This relaxation in the upper age limit shall be in addition to the relaxation available under rule-8 or any other rules or orders, if any made in this behalf."
         ]
       },
       {
-        "tag": "",
+        "tag": "Repeal",
         "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
+          "What is Repeal?",
+          "Explain Repeal",
+          "Define Repeal"
         ],
         "responses": [
-          ""
-        ]
-      },
-      {
-        "tag": "",
-        "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
-        ],
-        "responses": [
-          ""
-        ]
-      },
-      {
-        "tag": "",
-        "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
-        ],
-        "responses": [
-          ""
-        ]
-      },
-      {
-        "tag": "",
-        "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
-        ],
-        "responses": [
-          ""
-        ]
-      },
-      {
-        "tag": "",
-        "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
-        ],
-        "responses": [
-          ""
-        ]
-      },
-      {
-        "tag": "",
-        "patterns": [
-          "What is ",
-          "Explain ",
-          "Define "
-        ],
-        "responses": [
-          ""
+          " The Bombay Civil services Classification and Recruitment Rules, 1939 and any other rules corresponding thereto in force immediately before the coming into force of these rules are hereby repealed.\n Provided that such repeal shall not affect the things done or action taken under any of the rules so repealed."
         ]
       }
     ]
