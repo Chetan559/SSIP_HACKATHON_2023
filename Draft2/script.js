@@ -3,7 +3,7 @@ function appendMessage(sender, message) {
     const chatBox = document.getElementById('chat-box');
     const newMessage = document.createElement('div');
     
-    newMessage.innerHTML = `<p>${message}</p>`;
+    newMessage.innerHTML = `<span>${sender}:</span><p>${message}</p>`;
     
     if (sender === 'Rule_Mitra') {
         newMessage.className = 'chat-message chat-message--Bot';
