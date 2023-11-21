@@ -59,7 +59,7 @@ y_train = np.array(y_train)
 # parameters for Data.pth file
 num_epochs = 1000
 batch_size = 8
-learning_rate = 0.001
+learning_rate = 0.0003
 input_size = len(X_train[0])
 hidden_size = 8
 output_size = len(tags)
