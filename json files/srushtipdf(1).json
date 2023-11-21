@@ -1,1 +1,261 @@
-
+{
+    "intents": [
+      {
+        "tag": "Short title and commencement gujarat minister's salaries and allowances act,1960",
+        "patterns": [
+          "What is Short title and commencement of gujarat minister's salaries and allowances act,1960?",
+          "Explain Short title and commencement of gujarat minister's salaries and allowances act,1960",
+          "Define Short title and commencement of gujarat minister's salaries and allowances act,1960"
+        ],
+        "responses": [
+          "(1) This Act may be called the Gujarat Ministers' Salaries and Allowances Act, 1960.\n(2) It shall be deemed to have come into force on the 1st day of May, 1960.",
+          "(1)Title of the Act: 'This Act may be called the Gujarat Ministers' Salaries and Allowances Act, 1960.' This section simply states the name of the Act and how it should be referenced.\n(2)Date of Commencement:'It shall be deemed to have come into force on the 1st day of May, 1960.'This section specifies when the Act officially becomes effective or applicable."
+        ]
+      },
+      {
+        "tag": "Definitions of gujarat minister's salaries and allowances act,1960",
+        "patterns": [
+          "What is Definitions of gujarat minister's salaries and allowances act,1960+",
+          "Explain Definitions of gujarat minister's salaries and allowances act,1960",
+          "Give Definitions of gujarat minister's salaries and allowances act,1960"
+        ],
+        "responses": [
+          " In this Act, unless there is anything repugnant in the subject or context:-\n (a) 'Maintenance' in relation to a residence includes the payment of rates and taxes due Government or any local authority and the provision of electricity, gas and water;\n (b) 'Minister' and 'Deputy Minister' mean respectively a Minister and a Deputy Minister of  Government of Gujarat, and ['Minister' includes-\n  (i) The Chief Minister,\n  (ii) The Deputy Chief Minister, and\n  (iii) Minister of State:]\n (c) 'Residence' includes the staff quarters and other buildings appurtenant hereto, and the gardens thereof,\n (d) 'Rules' and 'orders' mean rules or orders respectively made under this Act",
+          "a) 'Maintenance' in relation to a residence: This refers to more than just basic upkeep. It covers the responsibilities of paying taxes to the government or local authorities and ensuring the availability of essential services like electricity, gas, and water necessary for the proper functioning and care of a residence.\n(b) 'Minister' and 'Deputy Minister': These terms identify specific roles within  government of Gujarat. 'Minister' refers to a few distinct positions:\n (i) The Chief Minister,\n (ii) The Deputy Chief Minister, and\n (iii) Minister of State.\n(c) 'Residence': This definition expands the concept beyond just the primary living area. includes associated spaces like staff quarters, other connected buildings, and even  gardens that are part of the same property.\n(d) 'Rules' and 'orders' mean rules or orders respectively made under this Act"
+        ]
+      },
+      {
+        "tag": "salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960",
+        "patterns": [
+          "What is salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960?",
+          "Explain salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960",
+          "Define salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960"
+        ],
+        "responses": [
+          "1) There shall be paid to the Minister 25% more basic salary per month than the basic salary payable to a Member of the Assembly by virtue of the provisions of sub-section (1) of section 3 of the Gujarat Legislative Assembly Member's Salaries and Allowances Act, 1960.\n(2) There shall be paid to the Minister during the whole of his term of office per month the dearness allowance on the amount of the basic salary referred to in sub-section (1) at such rate as is being paid to the employees of the State Government from time to time.]",
+          "(1) Basic Salary Increase:\n    What's paid: Ministers receive a monthly basic salary that's 25% higher than the basic salary entitled to a Member of the Assembly according to the Gujarat Legislative Assembly Member's Salaries and Allowances Act from 1960.\n(2) Dearness Allowance Addition:\n    Additional payment: Throughout their term, Ministers are entitled to receive a dearness allowance every month. This allowance is calculated based on the basic salary mentioned in point one, and it's paid at the same rate provided to the State Government employees at that time.\n In simpler terms, Ministers receive a basic salary that's 25% more than what an Assembly Member gets, along with a monthly dearness allowance calculated on that increased basic salary, aligned with what State Government employees receive."       
+        ]
+    },
+    {
+        "tag": "Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960",
+        "patterns": [
+          "What is Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960?",
+          "Explain Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960",
+          "Define Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960"
+        ],
+        "responses": [
+          " There shall be paid to each Minister during the whole of his term of office per month a sum of 120,000) as a consolidated allowance for all matters not specifically provided for by or under the provisions of this Act.",
+          " Each Minister is entitled to receive a fixed monthly sum of 120,000 rupees throughout their tenure. This amount serves as a consolidated allowance, intended to cover expenses or matters that aren't explicitly outlined or covered by the provisions stated within this Act. In simpler terms, it's a set monthly allowance provided to Ministers to address various expenses or needs that might not have specific allocations within the Act."        ]
+    },
+    {
+      "tag": "Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960",
+      "patterns": [
+        "What is Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960?",
+        "Explain Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960",
+        "Define Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960"
+      ],
+      "responses": [
+        "Dearness allowance to Ministers was deleted by Guj. 18 of 2018,"         
+      ]
+  },
+    {
+        "tag": "Residences of Ministers of gujarat minister's salaries and allowances act,1960",
+        "patterns": [
+          "What is Residences of Ministers of gujarat minister's salaries and allowances act,1960?",
+          "Explain Residences of Ministers of gujarat minister's salaries and allowances act,1960",
+          "Define Residences of Ministers of gujarat minister's salaries and allowances act,1960"
+        ],
+        "responses": [
+          "(1)  Each Minister shall be entitled, without payment of rent, to the use of a furnished residence [in Gandhinagar) throughout his term of office and for a period of fifteen days immediately thereafter, or in lieu of such residence a house allowance at the rate of 250 per month.\n(2)  No charge shall fall on the Minister personally in respect of the maintenance oresidence provided under this section.\n(3)  The expenditure on furnishing the residence provided under this section shall be onscale as may be determined by rules or orders",
+          "Each Minister will receive a fixed monthly amount of 120,000 rupees throughout their term in office. This particular sum serves as a consolidated allowance, encompassing any expenses or needs that aren't explicitly outlined or covered by the specific provisions within this Act. Essentially, it's a set monthly allowance provided to Ministers to address various expenses or matters that might not have detailed allocations within the Act."        
+         ]
+    },
+    {
+        "tag": "conveyances for Ministers of gujarat minister's salaries and allowances act,1960",
+        "patterns": [
+          "What is of gujarat minister's salaries and allowances act,1960?",
+          "Explain of gujarat minister's salaries and allowances act,1960",
+          "Define of gujarat minister's salaries and allowances act,1960"
+        ],
+        "responses": [
+          "(1) The State Government may, from time to time, for the use of the Ministers purchase and provide motor cars and other suitable conveyances upon such conditions as regards their maintenance and repairs. may be determined by rules or orders.\n(1A) Where, under sub-section (1), the State Government has provided for the use of the Ministers motor cars or other conveyances, it shall also provide to them, free of charge, the services of a driver for each such car or conveyance.]\n(2) There shall also be paid to each Minister a conveyance allowance at the rate of [7000] per month.",
+          "(1)The State Government is authorized to buy and furnish motor cars or other suitable vehicles for the Ministers' use. The conditions related to maintenance and repairs of these vehicles will be determined by specific rules or orders.\n(1A) If the State Government provides motor cars or other conveyances for the Ministers as per subsection (1), it must also offer them the services of a driver for each vehicle at no cost.\n(2)each Minister will receive a conveyance allowance of 7000 per month to cover transportation expenses."         ]
+    },
+    {
+        "tag": "Salaries and dearness allowance of Deputy Ministers",
+        "patterns": [
+          "What is Salaries and dearness allowance of Deputy Ministers?",
+          "Explain Salaries and dearness allowance of Deputy Ministers",
+          "Define Salaries and dearness allowance of Deputy Ministers"
+        ],
+        "responses": [
+          "(1) There shall be paid to the Deputy Minister 25% more basic salary per month than the basic salary payable to a Member of the Assembly by virtue of the provisions of sub-section (1) of section 3 of the Gujarat Legislative Assembly Member's Salaries and Allowances Act, 1960,\n(2) There shall be paid to the Deputy Minister duting the whole of his term of office per month the dearness allowance on the amount of the basic salary referred to in sub-section (1) at such rate as is being paid to the employees of the State Government from time to time.]",
+          "(1) The Deputy Minister will receive a monthly salary that is 25% higher than the basic salary given to a Member of the Assembly, as per the Gujarat Legislative Assembly Member's Salaries and Allowances Act, 1960, Section 3(1).\n(2) In addition to the increased salary mentioned in point 1, the Deputy Minister will also receive a dearness allowance on the aforementioned enhanced basic salary. This dearness allowance will be paid at the same rate as that given to State Government employees at any given time."         ]
+    },
+    {
+        "tag": "consolidated allowance to Deputy ministers",
+        "patterns": [
+          "What is consolidated allowance to Deputy ministers?",
+          "Explain consolidated allowance to Deputy ministers",
+          "Define consolidated allowance to Deputy ministers"
+        ],
+        "responses": [
+          " There shall be paid to each Deputy Minister during the whole of his term of office per month a sum of [20,000] as a consolidated allowance for all matters not specifically provided for by or under the provisions of this Act.]",
+          " Each Deputy Minister will receive a fixed monthly allowance of 20,000 throughout their tenure. This allowance covers various expenses or matters that are not explicitly outlined or covered by the regulations within this Act. Essentially, it's a set amount provided to Deputy Ministers to address miscellaneous expenses not specified in the Act."         ]
+    },
+    {
+        "tag": "Dearness Allowance to Deputy Ministers",
+        "patterns": [
+          "What is Dearness Allowance to Deputy Ministers?",
+          "Explain Dearness Allowance to Deputy Ministers",
+          "Define Dearness Allowance to Deputy Ministers"
+        ],
+        "responses": [
+          "Dearness Allowance to Deputy Ministers] was deleted by Guj. 18 of 2018, s.2, Sch., Sr. No.3, item 7."
+           ]
+    },
+    {
+        "tag": "Residences of Deputy Ministers",
+        "patterns": [
+          "What is Residences of Deputy Ministers?",
+          "Explain Residences of Deputy Ministers",
+          "Define Residences of Deputy Ministers"
+        ],
+        "responses": [
+          "(1) Each Deputy Minister shall be entitled, without payment of rent,to the use of a furnished residence [in Gandhinagar] throughout his term of office and for a period of fifteen days immediately thereafter, or in lieu of such residence a house allowance at the rate of 150 per month.(2) No charge shall fall on the Deputy Minister personally in respect of the maintenance of any residence provided under this section.\n(3) The expenditure on furnishing the residence provided under this section shall be on such scale as may be determined by rules or orders",
+          "(1) Each Deputy Minister is entitled to use a furnished residence in Gandhinagar throughout their term in office and for an additional fifteen days after their term ends. Alternatively, if they opt not to use the provided residence, they can receive a monthly house allowance of 150 instead.\n(2) The Deputy Minister is not responsible for any expenses related to maintaining the provided residence.\n(3) The scale of expenditure for furnishing the residence will be determined by specific rules or orders. Essentially, the cost and level of furnishing for the residence will be decided according to established guidelines or regulations."         
+        ]
+    },
+    {
+        "tag": "Conveyances for Deputy Ministers ",
+        "patterns": [
+          "What is Conveyances for Deputy Ministers?",
+          "Explain Conveyances for Deputy Ministers",
+          "Define Conveyances for Deputy Ministers"
+        ],
+        "responses": [
+          "(1) The State Government may, from time to time, for the use of the Conveyances Deputy Ministers purchase and provide motor cars and other suitable for for Deputy De conveyances, upon such conditions as regards their maintenance and repairs as may be determined by rules or orders. Ministers.\n(1A) Where, under sub-section (1), the State Government has provided for the use of the Deputy Ministers motor cars or other conveyances, it shall also provide to them, free of charge, the services of a driver for each such car or conveyance.]\n(2) There shall also be paid to each Deputy Minister a conveyance allowance at the rate of [7,000] per month.",
+          "(1) The State Government is authorized to buy and supply motor cars or suitable vehicles for the Deputy Ministers' use. The terms and conditions regarding the maintenance and repairs of these vehicles will be established through rules or orders.\n(1A) If the State Government provides motor cars or other conveyances for the Deputy Ministers as per subsection (1), they must also offer them the services of a driver for each vehicle without any charge.\n(2) Additionally, each Deputy Minister will receive a conveyance allowance of 7,000 per month to cover transportation expenses."        
+         ]
+    },
+    {
+        "tag": "Travelling and daily residential accommodation at places other than head-quarters",
+        "patterns": [
+          "What is Travelling and daily residential accommodation at places other than head-quarters?",
+          "Explain Travelling and daily residential accommodation at places other than head-quarters",
+          "Define Travelling and daily residential accommodation at places other than head-quarters"
+        ],
+        "responses": [
+          " The Ministers and Deputy Ministers shall be entitled to travelling  and daily allowances while touring on public business and suitable residential  accommodation at places visited by them on such business, at such rates and  upon such conditions as may be determined by rules or orders.",
+          " government officials, both Ministers and Deputy Ministers, will receive allowances for travel and daily expenses when they're conducting official duties. Additionally, they'll be provided with housing at the locations they visit for work. The specific rates and conditions for these allowances and accommodations will be decided by established rules or orders."
+        ]
+    },
+    {
+        "tag": "Travelling allowances on assumption office by Ministers and on ceasing to Ministers",
+        "patterns": [
+          "What is Travelling allowances on assumption office by Ministers and on ceasing to Ministers?",
+          "Explain Travelling allowances on assumption office by Ministers and on ceasing to Ministers",
+          "Define Travelling allowances on assumption office by Ministers and on ceasing to Ministers"
+        ],
+        "responses": [
+          " [9A. Subject to any rules or orders made in this behalf by the State of Government,-\n  (a) a Minister and a Deputy Minister shall be entitled to travelling be allowance for himself and the members of his family and for the transport of his and his family's effects in respect of the journey to Gandhinagar from his usual place of residence outside Gandhinagar for assuming office;\n  (b) a Minister or Deputy Minister and members of his family shall be entitled to travelling allowance for himself or themselves and for the transport of effects of the Minister, Deputy Minister or, as the case may be, his family in respect of the journey from Gandhinagar to his usual place of residence outside Gandhinagar on the Minister or the Deputy Minister ceasing to hold his office.\nExplanation. For the purposes of this section the expression 'a member of the family' shall have the same meaning as assigned to it in section. 10 and the 'family' shall be construed accordingly.",
+          " When a Minister or Deputy Minister assumes office in Gandhinagar, they're entitled to travel allowances for themselves, their family members, and the transportation of their belongings from their usual residence to Gandhinagar. Similarly, when they finish their term and leave office, they're entitled to travel allowances for themselves, their family members, and the transportation of their belongings from Gandhinagar back to their usual residence.\n The term 'member of the family' refers to the definition provided in section 10, and 'family' should be interpreted accordingly in this context."         ]
+    },
+    {
+      "tag": "Free transit by railway",
+      "patterns": [
+        "What is Free transit by railway?",
+        "Explain Free transit by railway",
+        "Define Free transit by railway"
+      ],
+      "responses": [
+        "  9AA. Every Minister and Deputy Minister shall be provided with facilities which shall entitle them at any time to travel by first class or by second class air conditioned by railway in any part of India in such manner and subject to such conditions as may by rules or orders be prescribed in that behalf:\n  Provided that such travel by railway in any part of India outside the State of Gujarat may be availed of by a Minister or, as the case may be, a Deputy Minister singly or jointly with his spouse and two other members of his family residing with and dependent on him, so however, that the total distance so travelled by the Minister or, as the case may be, the Deputy Minister singly in any year does not exceed 10,000 kilometres and the total distance so travelled jointly by the Minister or, as the case may be, the Deputy Minister and his spouse and two other members of his family residing with and dependent on him in any year does not exceed 20,000 kilometres.\nExplanation:-  For the purpose of calculating the number of kilometers travelled by a Minister or, as the case may be, a Deputy Minister jointly with his spouse and two other members of his family residing with and dependent on him, outside the State of Gujarat, the number of kilometres travelled by him. and by his spouse and two other members of his family residing with and dependent on him shall be counted separately.",
+        "(1) Travel Entitlement:\n  Who is entitled? Every Minister and Deputy Minister.\n  Travel Facilities: They are allowed to travel within India by first or second class air-conditioned railway compartments.\n  Conditions: The specifics of this entitlement, such as the manner and conditions of travel, will be determined by rules or orders set for this purpose.\n(2) Travel Limits Outside Gujarat:\n Conditions for Travel Outside Gujarat: Ministers or Deputy Ministers can travel outside Gujarat by railway, either alone or with their spouse and two other dependent family members.\n Limits: The Minister or Deputy Minister can travel alone for a maximum of 10,000 kilometers in a year. When traveling jointly with their spouse and two other family members, the combined distance should not exceed 20,000 kilometers in a year.\n Explanation on Calculation: When calculating kilometers traveled outside Gujarat jointly with family members, the distance traveled by the Minister or Deputy Minister and that of their spouse and two dependent family members will be counted separately."
+      ]
+    },
+    {
+      "tag": "Free transit by air.",
+      "patterns": [
+        "What is Free transit by air?",
+        "Explain Free transit by air",
+        "Define Free transit by air"
+      ],
+      "responses": [
+        " 9AB. Every Minister and the Deputy Minister may undertake or perform journey along with co-traveller by air from the nearest airport from his residence to and fro in any part of India on three occassions in each year:\n Provided that difference between the fare for journey by air and the fare for journey by railway by first class or by second class air conditioned, whichever is higher, shall be borne by the Minister or, as the case may be, the Deputy Minister.]",
+        "(1)Travel Frequency:\n  Who is entitled? Every Minister and Deputy Minister.\n  Travel Allowance: They're allowed to undertake or perform three air journeys per year along with a co-traveler from the nearest airport to their residence and back, anywhere in India.\n(2)Cost Difference:\n Payment Responsibility: If the airfare exceeds the fare for a first-class railway journey or a second-class air-conditioned railway journey (whichever is higher), the Minister or Deputy Minister must cover the additional cost.\n In simpler terms, Ministers and Deputy Ministers are permitted three air trips annually from their nearest airport, along with a companion, to travel anywhere in India. However, if the airfare exceeds a specific limit compared to higher-class railway fares, they need to pay the extra amount themselves."
+      ]
+    },
+    {
+      "tag": "Telephone facilities to  Minister",
+      "patterns": [
+        "What is Telephone facilities to  Minister?",
+        "Explain Telephone facilities to  Minister",
+        "Define Telephone facilities to  Minister"
+      ],
+      "responses": [
+        "9B. (1) Every Minister and Deputy Minister shall during the term of his  office be entitled to have '[telephone facilities) at Government cost at the place of residence at Gandhinagar.\n    (2) No charge shall fall on the Minister and the Deputy Minister personally in respect of installation of, initial deposit for, rental charges for maintenance of, and calls made from, [telephone facilities provided) under sub-section (1)]",
+        "While in office, every Minister and Deputy Minister has the right to access telephone services provided by the government at their residence in Gandhinagar. Additionally, these officials won't incur any personal expenses related to the installation, initial deposit, maintenance fees, or charges for calls made from these government-provided telephone facilities. Essentially, it ensures that Ministers and Deputy Ministers have access to official telephone services at their residence without bearing any costs for its setup, maintenance, or usage."
+      ]
+    },
+    {
+      "tag": "Sumptuary allowance to chief minister",
+      "patterns": [
+        "What is Sumptuary allowance to chief minister?",
+        "Explain Sumptuary allowance to chief minister",
+        "Define Sumptuary allowance to chief minister"
+      ],
+      "responses": [
+        "There shall be placed at the disposal of the Chief Minister a sum of [1,50,000] per year as sumptuary allowance.",
+        "The Chief Minister will have access to an annual sum of 1,50,000 rupees specifically allocated as a sumptuary allowance. In simpler terms, this allowance is a yearly amount set aside for the Chief Minister's personal expenses or discretionary spending."
+      ]
+    },
+    {
+      "tag": "Ministers and Deputy Ministers not entitled to salaries and allowances as members of State Legislature",
+      "patterns": [
+        "What is Ministers and Deputy Ministers not entitled to salaries and allowances as members of State Legislature?",
+        "Explain Ministers and Deputy Ministers not entitled to salaries and allowances as members of State Legislature",
+        "Define Ministers and Deputy Ministers not entitled to salaries and allowances as members of State Legislature"
+      ],
+      "responses": [
+        " Notwithstanding anything contained in any law for the time being  in force determining the salaries and allowances of members of the State Legislature, a Minister or a Deputy Minister shall not be entitled  receive any salaries and allowances as salary or allowances under such law, although he is a member of the Gujarat members of Legislative Assembly. ",
+        " governs the salaries and allowances for members of the State Legislature, if someone serves as a Minister or a Deputy Minister, they won't receive any additional salaries or allowances specifically designated for their role as a legislator in the Gujarat Legislative Assembly. In simpler terms, while they may be a member of the Assembly, their Ministerial or Deputy Ministerial duties won't entitle them to extra pay or benefits designated for legislators."
+      ]
+    },
+    {
+      "tag": "[Ministers of State and Deputy Ministers] not disqualified",
+      "patterns": [
+        "What is [Ministers of State and Deputy Ministers] not disqualified?",
+        "Explain [Ministers of State and Deputy Ministers] not disqualified",
+        "Define [Ministers of State and Deputy Ministers] not disqualified"
+      ],
+      "responses": [
+        " For the avoidance of doubt, it is hereby declared that a person shall not be disqualified for being chosen as, or for being a member of the Gujarat Legislative Assembly merely by reason of the fact that he holds the '[office of a Minister of State or of a Deputy Minister ].'",
+        "Holding the position of a Minister of State or a Deputy Minister doesn't automatically disqualify someone from being elected as a member of the Gujarat Legislative Assembly. In simpler terms, just being a Minister of State or Deputy Minister doesn't prevent someone from being chosen as a member of the Assembly or from continuing as one."
+      ]
+    },
+    {
+      "tag": "Power of State  Government to make rules and orders",
+      "patterns": [
+        "What is Power of State  Government to make rules and orders?",
+        "Explain Power of State  Government to make rules and orders",
+        "Define Power of State  Government to make rules and orders"
+      ],
+      "responses": [
+        "(1) The State Government may, by notification in the Official Gazette, make rules or orders for carrying out the purposes of this Act.\n(2) Any rule or order made under this section may be made so as to be retrospective to any date not earlier than the 1st May, 1960.\n(3) Rules or orders made under this section shall have effect as if enacted in this Act.\n(4) All rules and orders made under this section shall be laid for not less than thirty days before the State Legislature as soon as possible after they are made and shall be subject to rescission by the State Legislature or such modifications as the State Legislature may make during the session in which they are so laid, or the session immediately following.\n(5) Any rescission or modification so made by the State Legislature shall be published in the Official Gazette, and shall thereupon take effect.]",
+        "(1)Rule Making Authority:\n   Who can create rules: The State Government has the authority to create rules or orders to execute the objectives of this Act. These rules are announced in the Official Gazette.\n(2)Retrospective Effect:\n   Backdating rules: Rules or orders made under this section can be applied retrospectively, but not earlier than May 1st, 1960.\n(3)Legal Validity:\n   Status of rules: Rules or orders formulated under this section hold the same legal force as if they were included in this Act itself.\n(4)Legislative Review:\n   Presentation to Legislature: All rules and orders made under this section must be presented to the State Legislature for a minimum of thirty days after their creation.\n   Legislative Authority: The Legislature has the power to annul or modify these rules during the session they are presented or in the immediate subsequent session.\n(5)Implementation of Changes:\n   Official Notification: Any alterations or cancellations made by the State Legislature to these rules or orders will be officially announced in the Official Gazette and immediately put into effect."
+      ]
+    },
+    {
+      "tag": "Repeal of Gujarat Ord. No. VI of 1960",
+      "patterns": [
+        "What is Repeal of Gujarat Ord. No. VI of 1960?",
+        "What is Repeal of Guj. Ord. No. VI of 1960?",
+        "Explain Repeat of Guj. Ord. No. VI of 1960"
+      ],
+      "responses": [
+        " The Gujarat Ministers' Salaries and Allowances Ordinance, 1960 is hereby repealed and the provisions of sections 7 and 25 of the Bombay. General Clauses Act, 1904 shall apply to such repeal as if that Ordinance were an enactment",
+        " the Gujarat Ministers' Salaries and Allowances Ordinance from 1960 is canceled or abolished. When this repeal happens, the rules outlined in sections 7 and 25 of the Bombay General Clauses Act from 1904 will be used as guidelines for how this cancellation is treated, as if the Ordinance itself were a regular law."
+      ]
+    }
+    ]
+}
