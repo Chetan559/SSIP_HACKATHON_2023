@@ -156,19 +156,37 @@ nav a {
     }}
     
     
-#Department-logo{
-    display: flex;
-    margin-left: auto;
-    padding-left: 5px;
-}
-
-@media only screen and (max-width: 800px) {
+    #Department-logo{
+        display: flex;
+        margin-left: auto;
+        padding-left: 5px;
+    }
+    
+    @media only screen and (max-width: 800px) {
         #Department-logo{
             width: 150px; 
             height: auto; 
         }
     }
-
-.about{
-   margin: 0 15px 20px 15px;
-}    
+    
+    .about{
+        margin: 0 15px 20px 15px;
+    } 
+    
+    .responce-image{
+        /* margin: auto;
+        display: block; */
+        height: 200px;
+        width: 150px;
+    }
+    
+    @media only screen and (max-width: 800px) {
+        .responce-image{
+            margin: auto;
+            display: block;
+            justify-items: center;
+            align-items: center;
+            height: 100px;
+            width: 75px;
+    }
+    }
