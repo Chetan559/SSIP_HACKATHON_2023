@@ -43,14 +43,6 @@ $ python -m venv venv
 ```bash
 $ . venv/bin/activate
 ```
-This Project uses PyTorch
-```bash
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
-You also need nltk:
-```bash
-pip install nltk
-```
 Install dependencies
 ```bash
 $ (venv) pip install Flask torch torchvision nltk
