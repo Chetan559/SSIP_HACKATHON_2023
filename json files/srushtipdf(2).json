@@ -38,7 +38,8 @@
         "patterns": [
           "What is Physical fitness in general provisions regarding recruitment to any service or post?",
           "Explain Physical fitness in general provisions regarding recruitment to any service or post",
-          "Define Physical fitness in general provisions regarding recruitment to any service or post"
+          "Define Physical fitness in general provisions regarding recruitment to any service or post",
+          "what is Physical fitness?"
         ],
         "responses": [
           "\n Subject to the provisions of rules 11, 12, 13, 14 and 15 of the Gujarat Civil Services (General Conditions of Services) Rules, 2002, no person shall be appointed to any service or post, if he has failed to pass such medical test of physical fitness as may be prescribed by the State Government;\n Provided that where an appointment is made by promotion or transfer of a person who is already in service of the Government of Gujarat, no medical test shall ordinarily be required."
@@ -48,8 +49,9 @@
         "tag": "Evidence of good character in general provisions regarding recruitment to any service or post",
         "patterns": [
           "What is Evidence of good character in general provisions regarding recruitment to any service or post?",
+          "What is Evidence of good character?",
           "Explain Evidence of good character in general provisions regarding recruitment to any service or post",
-          "Define Evidence of good character in general provisions regarding recruitment to any service or post"
+      "Define Evidence of good character in general provisions regarding recruitment to any service or post"
         ],
         "responses": [
           " An appointment to any service or post, otherwise than by promotion or transfer of a person already in service, shall be subject to the production of such evidence of good character as may be required:-\n (a) by the Commission, if the appointment is to be made after consulting the Commission, or\n (b) by the appointing authority, in any other cases."
@@ -59,6 +61,7 @@
         "tag": "Condition as to Citizenship of India in general provisions regarding recruitment to any service or post",
         "patterns": [
           "What is Condition as to Citizenship of India in general provisions regarding recruitment to any service or post",
+          "What is Condition as to Citizenship of India?",
           "Explain Condition as to Citizenship of India in general provisions regarding recruitment to any service or post",
           "Define Condition as to Citizenship of India in general provisions regarding recruitment to any service or post"
         ],
@@ -70,6 +73,7 @@
         "tag": "Condition as to Prescribed qualifications in general provisions regarding recruitment to any service or post",
         "patterns": [
           "What is Condition as to Prescribed qualifications in general provisions regarding recruitment to any service or post",
+          "What is Condition as to Prescribed qualifications?",
           "Explain Condition as to Prescribed qualifications in general provisions regarding recruitment to any service or post",
           "Define Condition as to Prescribed qualifications in general provisions regarding recruitment to any service or post"
         ],
@@ -81,6 +85,7 @@
         "tag": "Appointment to service or post in State Service in general provisions regarding recruitment to any service or post",
         "patterns": [
           "What is Appointment to service or post in State Service in general provisions regarding recruitment to any service or post",
+          "What is Appointment to service or post",
           "Explain Appointment to service or post in State Service in general provisions regarding recruitment to any service or post",
           "Define Appointment to service or post in State Service in general provisions regarding recruitment to any service or post"
         ],
@@ -114,6 +119,7 @@
         "tag": "Period of Probation in State Service in general provisions regarding recruitment to any service or post",
         "patterns": [
           "What is Period of Probation in State Service in general provisions regarding recruitment to any service or post?",
+          "What is Period of Probation in State Service?",
           "Explain Period of Probation in State Service in general provisions regarding recruitment to any service or post",
           "Define Period of Probation in State Service in general provisions regarding recruitment to any service or post"
         ],
@@ -125,6 +131,7 @@
         "tag": "Appointment by promotion in State Service in general provisions regarding recruitment to any service or post",
         "patterns": [
           "What is Appointment by promotion in State Service in general provisions regarding recruitment to any service or post?",
+          "What is Appointment by promotion in State Service?",
           "Explain Appointment by promotion in State Service in general provisions regarding recruitment to any service or post",
           "Define Appointment by promotion in State Service in general provisions regarding recruitment to any service or post"
         ],
