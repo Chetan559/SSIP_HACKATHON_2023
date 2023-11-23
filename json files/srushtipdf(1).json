@@ -46,8 +46,8 @@
           "Define Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960"
         ],
         "responses": [
-          " There shall be paid to each Minister during the whole of his term of office per month a sum of 120,000) as a consolidated allowance for all matters not specifically provided for by or under the provisions of this Act.",
-          " Each Minister is entitled to receive a fixed monthly sum of 120,000 rupees throughout their tenure. This amount serves as a consolidated allowance, intended to cover expenses or matters that aren't explicitly outlined or covered by the provisions stated within this Act. In simpler terms, it's a set monthly allowance provided to Ministers to address various expenses or needs that might not have specific allocations within the Act."        ]
+          " There shall be paid to each Minister during the whole of his term of office per month a sum of (20,000) as a consolidated allowance for all matters not specifically provided for by or under the provisions of this Act.",
+          " Each Minister is entitled to receive a fixed monthly sum of 20,000 rupees throughout their tenure. This amount serves as a consolidated allowance, intended to cover expenses or matters that aren't explicitly outlined or covered by the provisions stated within this Act. In simpler terms, it's a set monthly allowance provided to Ministers to address various expenses or needs that might not have specific allocations within the Act."        ]
     },
     {
       "tag": "Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960",
@@ -70,8 +70,7 @@
           "Define Residences of Ministers of gujarat minister's salaries and allowances act,1960"
         ],
         "responses": [
-          "(1)  Each Minister shall be entitled, without payment of rent, to the use of a furnished residence [in Gandhinagar) throughout his term of office and for a period of fifteen days immediately thereafter, or in lieu of such residence a house allowance at the rate of 250 per month.\n(2)  No charge shall fall on the Minister personally in respect of the maintenance oresidence provided under this section.\n(3)  The expenditure on furnishing the residence provided under this section shall be onscale as may be determined by rules or orders",
-          "Each Minister will receive a fixed monthly amount of 120,000 rupees throughout their term in office. This particular sum serves as a consolidated allowance, encompassing any expenses or needs that aren't explicitly outlined or covered by the specific provisions within this Act. Essentially, it's a set monthly allowance provided to Ministers to address various expenses or matters that might not have detailed allocations within the Act."        
+          "(1)  Each Minister shall be entitled, without payment of rent, to the use of a furnished residence [in Gandhinagar) throughout his term of office and for a period of fifteen days immediately thereafter, or in lieu of such residence a house allowance at the rate of 250 per month.\n(2)  No charge shall fall on the Minister personally in respect of the maintenance oresidence provided under this section.\n(3)  The expenditure on furnishing the residence provided under this section shall be onscale as may be determined by rules or orders"       
          ]
     },
     {
@@ -227,11 +226,11 @@
       ]
     },
     {
-      "tag": "[Ministers of State and Deputy Ministers] not disqualified",
+      "tag": "Ministers of State and Deputy Ministers not disqualified",
       "patterns": [
-        "What is [Ministers of State and Deputy Ministers] not disqualified?",
-        "Explain [Ministers of State and Deputy Ministers] not disqualified",
-        "Define [Ministers of State and Deputy Ministers] not disqualified"
+        "What is Ministers of State and Deputy Ministers not disqualified?",
+        "Explain Ministers of State and Deputy Ministers not disqualified",
+        "Define Ministers of State and Deputy Ministers not disqualified"
       ],
       "responses": [
         " For the avoidance of doubt, it is hereby declared that a person shall not be disqualified for being chosen as, or for being a member of the Gujarat Legislative Assembly merely by reason of the fact that he holds the '[office of a Minister of State or of a Deputy Minister ].'",
@@ -264,4 +263,3 @@
     }
     ]
 }
-
