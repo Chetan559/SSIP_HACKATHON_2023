@@ -15,7 +15,7 @@
       {
         "tag": "Definitions of gujarat minister's salaries and allowances act,1960",
         "patterns": [
-          "What is Definitions of gujarat minister's salaries and allowances act,1960+",
+          "What is Definitions of gujarat minister's salaries and allowances act,1960?",
           "Explain Definitions of gujarat minister's salaries and allowances act,1960",
           "Give Definitions of gujarat minister's salaries and allowances act,1960"
         ],
@@ -28,6 +28,7 @@
         "tag": "salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960",
         "patterns": [
           "What is salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960?",
+          "What is salaries and dearness allowence of minsters and ministers of state?",
           "Explain salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960",
           "Define salaries and dearness allowence of minsters and ministers of state of gujarat minister's salaries and allowances act,1960"
         ],
@@ -40,6 +41,7 @@
         "tag": "Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960",
         "patterns": [
           "What is Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960?",
+            "What is Consolidated Allowance to Ministers?",
           "Explain Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960",
           "Define Consolidated Allowance to Ministers of gujarat minister's salaries and allowances act,1960"
         ],
@@ -51,6 +53,7 @@
       "tag": "Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960",
       "patterns": [
         "What is Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960?",
+          "What is Dearness allowance to ministers?",
         "Explain Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960",
         "Define Dearness allowance to ministers of gujarat minister's salaries and allowances act,1960"
       ],
@@ -62,6 +65,7 @@
         "tag": "Residences of Ministers of gujarat minister's salaries and allowances act,1960",
         "patterns": [
           "What is Residences of Ministers of gujarat minister's salaries and allowances act,1960?",
+            "What is Residences of Ministers?",
           "Explain Residences of Ministers of gujarat minister's salaries and allowances act,1960",
           "Define Residences of Ministers of gujarat minister's salaries and allowances act,1960"
         ],
@@ -73,9 +77,10 @@
     {
         "tag": "conveyances for Ministers of gujarat minister's salaries and allowances act,1960",
         "patterns": [
-          "What is of gujarat minister's salaries and allowances act,1960?",
-          "Explain of gujarat minister's salaries and allowances act,1960",
-          "Define of gujarat minister's salaries and allowances act,1960"
+          "What is conveyances for Ministers of gujarat minister's salaries and allowances act,1960?",
+          "Explain conveyances for Ministers of gujarat minister's salaries and allowances act,1960",
+            "What is conveyances for Ministers?",
+          "Define conveyances for Ministers of gujarat minister's salaries and allowances act,1960"
         ],
         "responses": [
           "(1) The State Government may, from time to time, for the use of the Ministers purchase and provide motor cars and other suitable conveyances upon such conditions as regards their maintenance and repairs. may be determined by rules or orders.\n(1A) Where, under sub-section (1), the State Government has provided for the use of the Ministers motor cars or other conveyances, it shall also provide to them, free of charge, the services of a driver for each such car or conveyance.]\n(2) There shall also be paid to each Minister a conveyance allowance at the rate of [7000] per month.",
