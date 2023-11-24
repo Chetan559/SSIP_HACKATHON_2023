@@ -31,7 +31,7 @@ for intent in intents['intents']:
 
 # stem and lower each word
 # Generate a new list of stemmed words from the 'all_words' list, excluding any words that are in the 'ignore_words' list.
-ignore_words = ['?', '.', '!']
+ignore_words = ['?', '.', '!','is']
 all_words = [stem(w) for w in all_words if w not in ignore_words]
 # remove duplicates and sort
 all_words = sorted(set(all_words))
@@ -59,7 +59,7 @@ y_train = np.array(y_train)
 # parameters for Data.pth file
 num_epochs = 1000
 batch_size = 8
-learning_rate = 0.0003
+learning_rate = 0.0002
 input_size = len(X_train[0])
 hidden_size = 8
 output_size = len(tags)
