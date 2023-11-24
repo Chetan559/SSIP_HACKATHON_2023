@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.port": 5500
+    "liveServer.settings.port": 5500,
+    "livePreview.defaultPreviewPath": "/Draft2/index.html"
 }
