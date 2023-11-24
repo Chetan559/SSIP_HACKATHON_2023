@@ -10,6 +10,7 @@ function appendMessage(sender, message) {
     }
     
     chatBox.appendChild(newMessage);
+    chatBox.scrollTop = chatBox.scrollHeight;
 }
 
 function sendMessage() {
