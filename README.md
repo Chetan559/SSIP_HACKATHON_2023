@@ -36,13 +36,30 @@ This is a Project to make a Rule Expert Chatbot which takes Query from the User 
 
 ### :gear: Installation
 
-This Project uses PyTorch
+Create virtual environment and activate it using 
 ```bash
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+$ python -m venv venv
 ```
-You also need nltk:
 ```bash
-pip install nltk
+$ . venv/bin/activate
+```
+Install dependencies
+```bash
+$ (venv) pip install Flask torch torchvision nltk
+```
+Install nltk package
+```bash
+$ (venv) python
+>>> import nltk
+>>> nltk.download(‘punkt’)
+```
+Train the chatbot model by running this command
+```bash
+$ (venv) python train.py
+```
+Generate response by following command
+```bash
+$ (venv) python app.py
 ```
 
 ## Contributers

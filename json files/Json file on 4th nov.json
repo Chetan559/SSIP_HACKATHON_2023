@@ -1,0 +1,515 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "Hello"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting what can I do for you?",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "items",
+        "patterns": [
+          "Who are you",
+          "What is your purpose?",
+          "what are you?"
+        ],
+        "responses": [
+          "I'm 𝐑𝐮𝐥𝐞 मित्र, your rule expert friend :) i can give you all the details on GAD Act and Rule but i'm still training so please pardon my mistakes if any.",
+          "Myself 𝐑𝐮𝐥𝐞 मित्र, your rule expert friend :)"
+        ]
+      },
+      {
+        "tag": "Definition_of_Appointing_Authority",
+        "patterns": [
+          "What is the definition of 'Appointing Authority' ?",
+          "Define 'Appointing Authority'.",
+          "Define 'Appointing Authority' as per the Gujarat Civil Services."
+        ],
+        "responses": [
+          "In rules, 'Appointing Authority' refers to the authority empowered to make appointments to the service, grade, or post of a Government servant.<br>Appointing Authority as per the Gujarat Civil Services refers to the authority that is empowered to make appointments to civil service posts. The appointing authority is responsible for determining the qualifications and eligibility criteria for each post, and for selecting the most qualified candidates.<br>The Gujarat Civil Services (Classification and Recruitment) (General) Rules, 1967, specify the different levels of appointing authority for civil service posts. The highest level of appointing authority is the State Government, which can make appointments to all civil service posts, regardless of their level or rank."
+        ]
+      },
+      {
+        "tag": "Definition_of_Disciplinary_Authority",
+        "patterns": [
+          "What is Disciplinary Authority' ?",
+          "Define 'Disciplinary Authority'.",
+          "Define 'Disciplinary Authority' as per the Gujarat Civil Services.",
+          "Define 'Disciplinary Authority' as per the Gujarat Civil Services (Discipline and Appeal) Rules, 1971."
+        ],
+        "responses": [
+          "'Disciplinary Authority' is the authority competent under these rules to impose disciplinary penalties.<br>Disciplinary Authority in the context of the Gujarat Civil Services refers to the authority that is empowered to initiate and conduct disciplinary proceedings against a government servant for alleged misconduct. The disciplinary authority is also responsible for imposing penalties on government servants who are found guilty of misconduct.<br>The Gujarat Civil Services (Discipline and Appeal) Rules, 1971, specify the different levels of disciplinary authority for government servants. The highest level of disciplinary authority is the State Government, which can initiate disciplinary proceedings against any government servant, regardless of their level or rank."
+        ]
+      },
+      {
+        "tag": "Definition_of_Government_servant",
+        "patterns": [
+          "what is Government servant ?",
+          "Who is Government servant ?",
+          "what refers to Government servant?",
+          "Define Government servant as per the Gujarat Civil Services.",
+          "What does 'Government servant' mean in the context of Gujarat Civil Services (Discipline and Appeal) Rules, 1971.?",
+          "What does 'Government servant' mean in the context of these rules?"
+        ],
+        "responses": [
+          "The term 'government servant', as defined in the Gujarat Civil Services (Discipline and Appeal) Rules, 1971, means any person who is employed in civil capacity under the Government of Gujarat, or under any body or authority controlled by the Government of Gujarat, and who is paid out of the revenues of the State of Gujarat.<br>The definition of 'government servant' is very broad and includes a wide range of employees, including:<br>• Civil servants, such as IAS, IPS, and IFS officers<br>• Employees of state-owned enterprises and government undertakings<br>• Employees of local governments, such as municipalities and district panchayats<br>• Teachers and other employees of government-aided educational institutions<br>• Employees of hospitals and other healthcare institutions run by the government<br>• Employees of research institutions and other organizations funded by the government<br>The Gujarat Civil Services (Discipline and Appeal) Rules, 1971, apply to all government servants, regardless of their level or rank. These rules provide for a comprehensive framework for disciplinary proceedings against government servants who are alleged to have committed misconduct."
+        ]
+      },
+      {
+        "tag": "ShortTitleCommencement",
+        "patterns": [
+          "When do the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 come into force?",
+          "What is the short title of the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 and when did they become applicable?",
+          "To whom do the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 apply?",
+          "Who is included in Gujarat Civil Services rules?"
+        ],
+        "responses": [
+          "The Gujarat Civil Services (Discipline and Appeal) Rules, 1971, come into force from 15th August, 1971. They apply to all persons appointed to civil services and posts in connection with the affairs of the State of Gujarat, whose conditions of service are regulated under Article 309 of the Constitution, except for members of the All India Services, Inspectors of Police, and Members of the Subordinate ranks of the Police Force."
+        ]
+      },
+      {
+        "tag": "SpecialProvisionsRights",
+        "patterns": [
+          "What are the special provisions that can be made for a Government servant under Gujarat Civil Services rules?",
+          "What special provisions can the appointing authority make for a Government servant under Gujarat Civil Services rules?",
+          "Explain the process of making special provisions by agreement.",
+          "Does the Gujarat Civil Services (Discipline and Appeal) Rules, 1971 protect existing rights and privileges of Government servants?"
+        ],
+        "responses": [
+          "Under the rules, special provisions can be made for a Government servant in specific matters through agreement with the appointing authority. These rules do not deprive any Government servant of rights or privileges conferred by existing laws or agreements between the person and the Government at the time of the rules' commencement.",
+          "The Appointing Authority under Gujarat Civil Services Rules has the power to make special provisions for a Government servant in the following cases:<br>• Appointment on ad-hoc basis: The Appointing Authority can appoint a Government servant on an ad-hoc basis for a period of up to one year, if it is in the public interest to do so. The Appointing Authority must record the reasons for making such an appointment in writing.<br>• Appointment on contract basis: The Appointing Authority can appoint a Government servant on a contract basis for a period of up to five years, if it is in the public interest to do so. The terms and conditions of the contract must be clearly specified in writing.<br>• Appointment on deputation: The Appointing Authority can depute a Government servant to another department or organization for a period of up to five years, if it is in the public interest to do so. The Appointing Authority must obtain the consent of the Government servant before deputing them.<br>• Appointment on re-employment basis: The Appointing Authority can re-employ a Government servant who has retired, for a period of up to five years, if it is in the public interest to do so. The terms and conditions of the re-employment must be clearly specified in writing.<br>• Relaxation in qualifications and eligibility criteria: The Appointing Authority can relax the qualifications and eligibility criteria for a particular post, if it is in the public interest to do so. The Appointing Authority must record the reasons for such relaxation in writing.<br><br>In addition to the above provisions, the Appointing Authority can also make special provisions for a Government servant in the following cases:<br>• Promotion: The Appointing Authority can promote a Government servant to a higher post, even if they have not completed the required period of service, if it is in the public interest to do so.<br>• Pay: The Appointing Authority can grant a special pay to a Government servant, if it is in the public interest to do so.<br>• Leave: The Appointing Authority can grant special leave to a Government servant, if it is in the public interest to do so.<br>• Disciplinary proceedings: The Appointing Authority can waive or reduce the penalty imposed on a Government servant in disciplinary proceedings, if it is in the public interest to do so.<br><br>The Appointing Authority has the discretion to make special provisions for a Government servant in the above cases, but it must exercise its discretion judiciously and in the public interest."
+        ]
+      },
+      {
+        "tag": "Knowlegde_source",
+        "patterns":[
+            "From where you get all this information?",
+            "What is your source?",
+            "What are the source of your information?",
+            "Where you get all this knowlegde?",
+            "How do you acquire the information you provide?",
+            "What kind of texts or sources were used to train you?",
+            "How were you trained to answer questions and provide information?",
+            "From where do you derive the content you share in your responses?"
+        ],
+        "responses": [
+            "According to the information available on (General Administration Department (Personnel Division), Govt. of Gujarat)<u>https://gad.gujarat.gov.in/Personnel/acts-and-rules.htm</u>, Please note that this information is based on the content present on the website as of the last update, and it's advisable to verify the details on the official site for the most current and accurate information.",
+            "Referring to <u>https://gad.gujarat.gov.in/Personnel/acts-and-rules.htm</u> the official website of General Administration Department (Personnel Division), Govt. of Gujarat, Please be aware that this data is sourced from the website and is subject to change. For the most accurate details, it is recommended to directly visit <u>https://gad.gujarat.gov.in/Personnel/acts-and-rules.htm</u> and verify the information."
+        ]
+      },
+      {
+        "tag": "ProtectionOfRights",
+        "patterns": [
+          "Explain the protection of rights and privileges for Government servants.",
+          "What is protection of rights for Government servants."
+        ],
+        "responses": [
+          "The Gujarat Civil Services (Discipline and Appeal) Rules, 1971, ensure that Government servants retain their entitled rights and privileges. These rights include those provided by existing laws or agreements between the individual and the Government at the commencement of these rules.",
+          "The protection of rights and privileges for government servants is important for several reasons. First, it helps to ensure that government servants are able to carry out their duties without fear of being arbitrarily dismissed or disciplined. Second, it helps to protect the independence and impartiality of the government service. Third, it helps to attract and retain qualified and competent individuals to the government service.<br><br>In addition to the Constitution and service rules, government servants also have access to a number of other legal remedies to protect their rights and privileges. For example, government servants can file a petition in the High Court or Supreme Court if they believe that their rights have been violated.<br><br>Here are some specific examples of the rights and privileges that are protected for government servants:<br><br><br>• The right to a fair and impartial hearing in disciplinary proceedings.<br>• The right to be protected from arbitrary dismissal or removal from service.<br>• The right to receive regular pay and allowances.<br>• The right to receive pension and retirement benefits.<br>• The right to take leave.<br>• The right to form associations and unions."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 General Administration Department Notification",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 General Administration Department Notification?",
+          "What are general notification of Gujarat Civil Services (Conduct) Rules,1971?",
+          "Explain Gujarat Civil Services (Conduct) Rules,1971 General Administration Department Notification?",
+          "Tell me about the key provisions and principles of the Gujarat Civil Services (Conduct) Rules, 1971, as per the General Administration Department's notification.",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, impact the conduct of civil servants in Gujarat, and where can I find the official notification from the General Administration Department?",
+          "Could you provide information on the General Administration Department Notification regarding the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          "CONSTITUTION OF INDIA:-<br>  No. GS-71/73-CDR/1266-1-G :- In exercise of the powers conferred by Article 309 of the Constitution of India and with previous approval of the Central Government under proviso to sub-section (6) of Section 81 of the Bombay Reorganisation Act 1960<br><br>In other words<br><br>'CONSTITUTION OF INDIA': This is a reference to the supreme law of India, which establishes the framework for the government and its institutions.<br>'No. GS-71/73-CDR/1266-1-G': This appears to be a reference or identification number for the notification or order, likely for administrative tracking purposes.<br>'In exercise of the powers conferred by Article 309 of the Constitution of India': Article 309 of the Indian Constitution deals with the power of the President or the Governor of a state to make rules regulating the recruitment, conditions of service, and the tenure of civil servants in the state government. This phrase indicates that the action being taken is based on the authority granted by Article 309.<br>'with previous approval of the Central Government under proviso to sub-section (6) of Section 81 of the Bombay Reorganisation Act 1960': This part refers to a specific provision of the Bombay Reorganisation Act of 1960. Section 81 of this Act likely deals with the distribution of assets, liabilities, and administrative matters during the reorganization of the state of Bombay into Maharashtra and Gujarat. The mention of previous approval of the Central Government implies that the action being taken has been sanctioned by the central government as required by the relevant provision.",
+          "The Gujarat Civil Services (Conduct) Rules, 1971, General Administration Department Notification is a set of rules that govern the conduct of government servants in the state of Gujarat, India. The rules cover a wide range of topics, including:<br><br>General obligations of government servants, such as the duty to uphold the Constitution and to serve the government loyally and efficiently.<br>• Specific prohibitions on certain types of conduct, such as corruption, nepotism, and political activity.<br>• Requirements for government servants to maintain high standards of personal morality and integrity.<br>• Procedures for disciplinary action against government servants who violate the rules.<br>• The Gujarat Civil Services (Conduct) Rules, 1971, General Administration Department Notification is an important document that helps to ensure that government servants in Gujarat meet the high standards of conduct that are expected of them.<br><br>Here are some of the key provisions of the Gujarat Civil Services (Conduct) Rules, 1971, General Administration Department Notification:<br><br>• No government servant shall engage in any act of corruption or nepotism.<br>• No government servant shall take part in any political activity.<br>• No government servant shall disclose any confidential information to which they have access by virtue of their position.<br>• No government servant shall use their position to influence or interfere with the course of justice.<br>• No government servant shall engage in any act of misconduct that brings discredit to the government service.<br><br>The Gujarat Civil Services (Conduct) Rules, 1971, General Administration Department Notification is an important tool for promoting good governance and accountability in the state of Gujarat. By ensuring that government servants meet the high standards of conduct that are expected of them, the rules help to build public trust in the government and to deliver better services to the people of Gujarat."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Short title, commencement and application",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Short title, commencement and application?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Short title, commencement and application?",
+          "Please provide information about the Gujarat Civil Services (Conduct) Rules, 1971, including its short title and the categories of civil servants it applies to.",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, define their short title, commencement, and scope of application?",
+          "Describe the commencement date and the extent of applicability of the Gujarat Civil Services (Conduct) Rules, 1971."
+        ],
+        "responses": [
+          "(1)   These rules may be called the Gujarat Civil Services (Conduct) Rules,1971.<br>(2)   They shall come into force from 15th August, 1971.<br>(3)   They shall apply to all persons appointed to Civil Services and posts in connection with the affairs of the State of Gujarat, whose conditions of Service are regulated in accordance with the rules made under Article 309 of the Constitution.<br> Provided that nothing in these rules shall apply to members of the  All India Services.<br> Provided further that nothing in these rules except rules 2, 3, 5, 6, 12, 15 and 19 shall apply to persons appointed as Police Patels under the Bombay Village Police Act, 1867.<br><br>In other words<br><br> 'These rules may be called the Gujarat Civil Services (Conduct) Rules, 1971.' This part simply states the title or name of the rules, which are officially known as the 'Gujarat Civil Services (Conduct) Rules, 1971'.<br> 'They shall come into force from 15th August 1971.' This line specifies the date on which these rules become effective, which is August 15, 1971. This is the date from which these rules will be applicable and enforced.<br> 'They shall apply to all persons appointed to Civil Services and posts in connection with the affairs of the State of Gujarat, whose conditions of Service are regulated in accordance with the rules made under Article 309 of the Constitution.' This part indicates the scope of applicability of these rules. They are meant to govern the conduct of individuals who are appointed to civil services and posts related to the state of Gujarat, and whose terms of service are determined based on rules established under Article 309 of the Indian Constitution. In other words, these rules apply to state government employees in Gujarat whose conditions of service are subject to constitutional regulations.<br> 'Provided that nothing in these rules shall apply to members of the All India Services.'This provision specifies an exception. The rules do not apply to members of the All India Services. All India Services are services that operate at the central level, such as the Indian Administrative Service (IAS), Indian Police Service (IPS), and Indian Forest Service (IFS).<br> 'Provided further that nothing in these rules except rules 2, 3, 5, 6, 12, 15, and 19 shall apply to persons appointed as Police Patels under the Bombay Village Police Act, 1867.' This provision adds another exception. While most of these rules do not apply to persons appointed as Police Patels under the Bombay Village Police Act, 1867, specific rules mentioned (2, 3, 5, 6, 12, 15, and 19) still apply to them. These specific rules likely contain general conduct and disciplinary provisions that apply to Police Patels. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Definitions",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Definitions?",
+          "Explain Gujarat Civil Services (Conduct) Rules,1971 Definitions?",
+          "Can you elaborate on the terminology used in the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 clarify key terms and phrases?",
+          "What are the specific terms defined in the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          "(a)  “the Government” means the Government of Gujarat.<br> (b)  'Government Servant' means any person appointed to any civil service or post in connection with the affairs of the State of Gujarat, and includes also the following -<br>(i)  a Government servant on deputation to other Government of India.<br>(ii)  Government servant on foreign Service. <br> (c)  'Members of Family' in relation to a Government servant includes -<br>(i)  the wife of husband as the case may be, of the Government servant whether residing with the Government servant or not but does not include a wife or husband as the case may be,separated from the Government servant by a decree or order of a competent court, or in accordance with the personal law applicable to the Government servant.<br>(ii)  son or daughter or step son or step daughter of the Government servant and wholly dependent on him or her but does not include a child or step child who is no longer in any way dependent on the Government servant or of whose custody, the Government servant has been deprived of by or under any law.<br>(iii)  any other person related, whether by blood or marriage, to the Government Servant or to the Government servant's wife or husband, and wholly dependent on the Government servant.<br>(d)  words and expression used but not defined in these rules shall have the meaning assigned to them in the Gujarat Civil Services (General Conditions of Services) Rules, 2002, or in the Gujarat Civil Services Classification and Recruitment (General) Rules, 1967.<br><br>In other words<br><br>(a) 'the Government' means the Government of Gujarat: This part clarifies that in these rules, when it refers to 'the Government,' it specifically means the Government of Gujarat. This definition is necessary to specify the scope of the rules.<br>(b) 'Government Servant' means any person appointed to any civil service or post in connection with the affairs of the State of Gujarat, and includes also the following:<br> (i) a Government servant on deputation to other Government of India.<br> (ii) Government servant on foreign Service: This part provides the definition of a 'Government Servant.' It encompasses any person appointed to civil services or posts related to the State of Gujarat. It also includes individuals who are on deputation to other parts of the Government of India or on foreign service. In other words, it covers government employees in various service arrangements.<br>(c) 'Members of Family' in relation to a Government servant includes:<br> (i) the wife or husband of the Government servant, whether residing with the Government servant or not but with exceptions mentioned for spouses separated by legal decree<br> (ii) son, daughter, step-son, or step-daughter of the Government servant who is wholly dependent on the Government servant, with exceptions for children who are no longer dependent on the Government servant or have lost custody under any applicable law.<br> (iii) any other person related by blood or marriage to the Government servant, the spouse of the Government servant, and wholly dependent on the Government servant: This part defines the scope of 'Members of Family' concerning a Government servant. It includes spouses, children (or step-children), and other individuals who are financially dependent on the Government servant.<br>(d) 'words and expression used but not defined in these rules shall have the meaning assigned to them in the Gujarat Civil Services (General Conditions of Services) Rules, 2002, or in the Gujarat Civil Services Classification and Recruitment (General) Rules, 1967': This section clarifies that if any terms or expressions are used within these rules but are not explicitly defined, their meanings are to be interpreted based on the definitions provided in the Gujarat Civil Services (General Conditions of Services) Rules, 2002, or the Gujarat Civil Services Classification and Recruitment (General) Rules, 1967. This ensures consistency in interpretation and application of terms across different sets of rules. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 General",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 General?",
+          "Explain Gujarat Civil Services (Conduct) Rules,1971 General?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 promote ethical conduct among government employees?",
+          "What is the process for reporting a violation of the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "What are the consequences of violating the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          "(1) Every Government servant shall at all times - <br> (i) maintain absolute integrity.<br> (ii) maintain devotion to duty,and<br> (iii) do nothing which is unbecoming of a Government servant.<br> Explaination of clause(ii)-<br>  A Government servant, who habitually fails to perform a task assigned to him within the time set for the purpose and with the quality of performance expected of him, shall be deemed to be lacking in devotion to duty.(2) No Government servant shall, in the performance of his official duties or in exercise of the powers conferred on him, act otherwise than in his best judgement except when he is acting under the direction of his official superior and shall, where he is acting under such direction, obtain the direction in writing, wherever practicable, and where it is not practicable to obtain the direction in writing, he shall obtain written confirmation of the direction as soon thereafter as possible.<br> (3) All departmental rules and orders in respect of the subject dealt with in these rules which have been approved or may hereafter be approved by Government shall in so far as they are not inconsistent with any provisions of these rules, apply to Government servants to whom they relate.<br> Explanation :- Nothing in sub-rule (2) shall be construed as empowering a Government servant to evade his responsibility by seeking instructions from or approval of a superior officer or authority when such instructions are not necessary under the scheme of districution of powers and responsibilities.<br> (3-A) Promptness and Courtesy-<br>  No Government servant shall<br> (a) in the performance of his official duties, act in a discourteous manner.<br> (b) in his official dealings with the public or otherwise adopt dilatory tactics or willfully cause delays in disposal of the work assigned to him.<br> (3-B) Prohibition of sexual harassment of working women<br>  (1) No Government servant shall indulge in any act of sexual harassment of any woman at her work place.(2) Every Government servant who is in charge of a work place shall take appropriate steps to prevent sexual harassment to any woman at such work place.Explanation :- <br> For the purpose of this rule “Sexual harassment” includes such unwelcome sexually determined behaviour, whether directly or otherwise such as - <br> (a) Physical contact and advances ;<br>(b) demand or request for sexual favours ;<br> (c) sexually coloured remarks ;<br> (d) showing any pornography ; or<br> (e) any other unwelcome physical, verbal or non-verbal conduct of a sexual nature<br> (3-C) Prohibition regarding employment of children below 14 years of age-<br> No Government servant shall employ to work any child below the age of 14 years.<br><br>In other words<br><br>1.Every Government Servant shall at all times:<br> (i) maintain absolute integrity: This means that a government servant must always be honest and ethical in their actions and behavior. They should not engage in any form of corruption or dishonesty.<br> (ii) maintain devotion to duty:<br>Explanation of clause (ii): This clause specifies that a government servant must perform their duties diligently and with a strong commitment to their responsibilities. If a government servant habitually fails to complete assigned tasks within the designated time and with the expected quality of performance, they are considered lacking in devotion to duty.<br> (iii) do nothing which is unbecoming of a Government servant: This requires government servants to maintain a high standard of conduct and not engage in any actions that are inappropriate or unprofessional for their role.<br>2.No Government servant shall, in the performance of his official duties:<br> act otherwise than in his best judgment: Government servants are expected to use their own judgment and discretion when carrying out their official duties.<br> except when he is acting under the direction of his official superior:<br>  and shall, where he is acting under such direction, obtain the direction in writing, wherever practicable:<br>  and where it is not practicable to obtain the direction in writing, he shall obtain written confirmation of the direction as soon thereafter as possible: This part emphasizes that government servants should act independently when performing their duties, except when they receive directions from their superiors. When following such directions, they should, whenever possible, get them in writing and, if not possible, obtain written confirmation as soon as they can.<br>3.All departmental rules and orders in respect of the subject dealt with in these rules:<br> which have been approved or may hereafter be approved by Government shall apply to Government servants to whom they relate:<br>  Explanation: This means that any departmental rules and orders related to the subject matter covered by these rules, and that have been approved or may be approved by the government, will be applicable to the government servants they pertain to. This ensures that government servants are bound by the relevant departmental rules.<br>3-A. Promptness and Courtesy:<br> No Government servant shall:<br>  (a) in the performance of his official duties, act in a discourteous manner.<br>  (b) in his official dealings with the public or otherwise adopt dilatory tactics or willfully cause delays in the disposal of the work assigned to him: This section emphasizes the importance of being courteous and prompt in the performance of official duties and interactions with the public.<br>3-B. Prohibition of sexual harassment of working women:<br> (1) No Government servant shall indulge in any act of sexual harassment of any woman at her workplace.<br> (2) Every Government servant who is in charge of a workplace shall take appropriate steps to prevent sexual harassment of any woman at such workplace.<br> Explanation: This rule prohibits any form of sexual harassment in the workplace. It provides a definition of sexual harassment, which includes unwelcome sexually determined behavior, and places an obligation on those in charge of workplaces to prevent such harassment.<br>3-C. Prohibition regarding employment of children below 14 years of age:<br> No Government servant shall employ any child below the age of 14 years for work: This rule prohibits the employment of children under the age of 14, aligning with child labor laws.<br> These rules are designed to ensure the integrity, efficiency, and ethical conduct of government servants in the state of Gujarat while also promoting courteous and responsible behavior in the workplace and addressing important issues like sexual harassment and child labor."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Employment of near relatives of Government servants in company or firm enjoying Government patronage",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Employment of near relatives of Government servants in company or firm enjoying Government patronage?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Employment of near relatives of Government servants in company or firm enjoying Government patronage?",
+          "How does the Gujarat Civil Services (Conduct) Rules, 1971 address situations where government servants' near relatives are employed in firms that have a close association with the government?",
+          "What are the restrictions for government employees in Gujarat when it comes to their near relatives' employment in companies benefiting from government patronage?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Employment of near relatives of Government servants in company or firm enjoying Government patronage"
+        ],
+        "responses": [
+          "(1)   No Government servant shall use his position or influence directly or indirectly to secure employment for any member of his family in any 1(company or firm) except in relation to persons or bodies with whom he is personally or socially connected otherwise than by virtue of any office held by him during his service.<br> (2)   (i) No class I or II officer shall, except with the previous sanction of the Government permit his son or any member of his family to accept employment in any 1 (company or firm) with which he has official dealing or in any other 1 (company or firm) having official dealings with the Government.<br>   Provided that where the acceptance of the employment cannot await prior permission of the Government or is otherwise considered urgent, the matter shall be reported to the Government forthwith and the employment may be accepted provisionally subject to the permission of the Government.<br>(ii)  A Government servant shall, as soon as he becomes aware of the acceptance by a member of his family of an employment in any 1(company or firm), intimate such acceptance to the prescribed authority and shall also intimate whether he has or has any official dealing with that 1 (company or firm).<br>  Provided, that no such intimation shall be necessary in case of a class I or II officer if he has already obtained the sanction of or sent a report to, the Government under clause (i).<br>(3)  No Government servant shall in the discharge of his official duties deal with any matter or give sanction any contract to any 1 (company or firm) or any other person if any member of his family is employed in that 1 (company or firm) or under that person or if he or any member of his family is interested in such matter or contract in any other manner and the Government servant shall refer every such matter or contract to his official superior and the matter or contract shall thereafter be disposed of according to the instruction of the authority to whom the reference is made.<br><br>In other words<br><br>1.No Government servant shall use his position or influence directly or indirectly to secure employment for any member of his family in any company or firm, except in relation to persons or bodies with whom he is personally or socially connected otherwise than by virtue of any office held by him during his service:<br> This rule prohibits government servants from using their official position or influence to help secure employment for their family members in any company or firm. However, there may be exceptions for persons or bodies with whom they have personal or social connections unrelated to their official position.<br>2.(i) No class I or II officer shall, except with the previous sanction of the Government, permit his son or any member of his family to accept employment in any company or firm with which he has official dealings or in any other company or firm having official dealings with the Government:<br> This provision imposes specific restrictions on Class I or Class II officers. They are required to seek prior permission from the government before allowing their family members (sons or other eligible family members) to accept employment in a company or firm with which they have official dealings or in any other company or firm having official dealings with the government.<br> Provided that where the acceptance of the employment cannot await prior permission of the Government or is otherwise considered urgent, the matter shall be reported to the Government forthwith, and the employment may be accepted provisionally subject to the permission of the Government:<br>  In urgent situations, where obtaining prior permission is not feasible, the officer can provisionally allow their family member to accept employment but must promptly report this to the government. The final acceptance of employment is subject to the government's permission.<br> (ii) A Government servant shall, as soon as he becomes aware of the acceptance by a member of his family of an employment in any company or firm, intimate such acceptance to the prescribed authority and shall also intimate whether he has or has any official dealing with that company or firm:<br>  When a government servant becomes aware that a family member has accepted employment in a company or firm, they must promptly inform the relevant authority. Additionally, they should disclose whether they have official dealings with that specific company or firm.<br>  Provided, that no such intimation shall be necessary in case of a class I or II officer if he has already obtained the sanction of or sent a report to the Government under clause (i):<br>   Class I or Class II officers who have already received government sanction or reported the matter to the government under clause (i) do not need to make a separate intimation.<br>3.No Government servant shall, in the discharge of his official duties, deal with any matter or give sanction to any contract to any company or firm or any other person:<br> This rule prevents government servants from participating in matters or approving contracts involving any company, firm, or individual if any member of their family is employed by that company or firm or if the government servant or any family member has an interest in that matter or contract in any other way.<br> the Government servant shall refer every such matter or contract to his official superior:<br>  In such cases, the government servant must refer the matter or contract to their official superior.<br> and the matter or contract shall thereafter be disposed of according to the instruction of the authority to whom the reference is made:<br>  The final decision regarding such matters or contracts will be made by the authority to whom the reference is submitted.<br> These rules are designed to prevent conflicts of interest, ensure transparency, and maintain the integrity of government servants in their official dealings with companies or firms and in matters related to the employment of their family members. It establishes procedures to seek government permission or report such situations to relevant authorities."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Taking part in Politics and Elections",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Taking part in Politics and Elections?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Taking part in Politics and Elections?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Taking part in Politics and Elections?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, aim to maintain the political neutrality of civil servants in the state?",
+          "What are the consequences for a civil servant in Gujarat who contests elections without resigning from their government job"
+        ],
+        "responses": [
+          "(1)  No Government servant shall be a member of or be otherwise associated with any political party or any organisation which ordinarily takes part in politics nor shall he take part in, subscribe in aid of, or assist, in any other manner any political movement or activity.<br>(2)  It shall be the duty of every Government servant to endeavour to prevent any member of his family from taking part in, subscribing in aid of, or assisting in any other manner any movement or activity which is, or trends directly or indirectly to be, subversive of any Government in India as by law established and where a Government servant is unable to prevent a member of his family from taking part in, subscribing in aid of, or assisting in any other manner, any such movement or activity, he shall make a report to that effect to Government.<br>(3)  If any question arises whether a party is a political party or whether any organisation takes part in politics or whether any movement or activity falls within the scope of this rule, the decision of the Government thereon shall be final.<br>(4)  No Government servant shall drectly or indirectly canvass or otherwise interfere or in any manner whatsoever use his influence in connection with, or take part in any form, in an election to any legislature or local authority.<br>Provided that -<br> (i)  A Government servant qualified to vote at such election may exercise his right to vote, but where he does so, he shall give no indication of the manner in which he proposes to vote or has voted.<br> (ii)  A Government servant shall not be deemed to have contravened the provisions of this rule by reason only that he assists in the conduct of an election in the due performance of a duty imposed on him by or under any law for the time being in force, or by an order of Government.<br>Explanation :-  The display by a Government servant on his person, vehicle or residence of any electoral symbol, shall amount to using his influence in connection with an election within the meaning of this sub-rule "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Demonstrations and strikes",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Demonstrations and strikes?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Demonstrations and strikes?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, address the involvement of government employees in strikes and demonstrations?",
+          "What is the stance of the Gujarat government on government employees' involvement in strikes or demonstrations based on the Civil Services (Conduct) Rules?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Demonstrations and strikes?"
+  
+        ],
+        "responses": [
+          "No Government servant shall -<br> (i) engage himself, or participate in any demonstration which is prejudicial to the interest or the soverignty and integrity of India, the security of the State, friendly relations with foreign States, Public Order, decency or mortality or which involves contempt of court, defamation or incitement to an offecne, or<br> (ii) resort to or in any way abet any form of strike.<br>Explanation :- For the purpose of this rule, the expression “strike” means the cessation of work by Government servant in combination or a concerted refusal or refusal under a common understanding of any number of Government servants and includes -<br> (i) refusal to work overtime where such work is necessary.<br> (ii) any other conduct which is likely to result in, or results in, cessation or substantial retradation of Government work. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Joining of Association by Government servants",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Joining of Association by Government servants?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Joining of Association by Government servants?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Joining of Association by Government servants",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, address the topic of government servants' association memberships?",
+          "What are the provisions related to government employees and their involvement in associations outlined in the Gujarat Civil Services (Conduct) Rules, 1971?"
+  
+        ],
+        "responses": [
+          "  No Government servant shall join, or continue to be a member of an association, the objects or activities of which are prejudicial to the interest of the soverignty and integrity of India or Public Order or morality. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Conncetion with Press or Radio",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Conncetion with Press or Radio?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Conncetion with Press or Radio?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, regulate civil servants' engagement with the media?",
+          "How do the rules ensure that government employees maintain ethical standards when communicating with the press or participating in radio broadcasts?",
+          "What are the provisions in the Gujarat Civil Services (Conduct) Rules, 1971, regarding interactions with the media, including newspapers and broadcasting?"
+        ],
+        "responses": [
+          " (1) No Government servant shall, except with the previous sanction of the Government own wholly or in part, or conduct or participate in editing or management or, any newspaper or other periodical publication.<br> (2) No Government servant shall, except with the previous sanction of the Government or of the prescribed authority or except in the bonafide discharge of his duties -<br>  (a) publish a book himself or through a publisher, or contribute an article to a book or a complilation of articles, or <br>  (b) participate in a radio broadcast or contribute an article or write a letter to news-paper or periodical.<br> either in his own name of anonymously, or pseudonymously or in the name or any other person :<br>Provided that no such sanction shall be required -<br>  (i) if such publication is through a publisher and is of a purely literary, artistic or scientific character, or<br>  (ii) if such contribution, broadcast, or writing is of a purely literary, artistic or scientific character."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Criticism of Government",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Criticism of Government?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Criticism of Government?",
+          "How have civil society or advocacy groups voiced their criticisms of the government's enforcement of the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "What are the areas where the Gujarat government's rules and regulations for civil services have faced criticism or opposition from various stakeholders?",
+          "What are the criticisms or drawbacks associated with the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          "  No Government servant shall in any radio broadcast or in any document published in his own name, or anonymously, pseudonymously, or in the name of any other person, or in any communication to the press, or in public utterance, make any statement of facts or opinion -<br> (i) which has the effect of an adverse criticism of any current or recent policy, or action of the Central Government, or of State Government :<br>  Provided that in the case of any Government servant included any category of Government servants specified in sub-rule (3) or rule 1,nothing contained in this clause shall apply to bonafide expression of views by him as an office bearer of a trade union of such Government servants for the purpose of safeguarding the conditions of service of such Government servants or for securing an improvement thereof.<br> (ii) which is capable of embrassing the relations between the Central Government and the Government of any State or<br> (iii) which is capable of embrassing the relations between the Central Government and the Government of any foreign state :<br>  Provided that nothing in this rule shall apply to any statement made or views expressed by a Government servant in his official capacity or in the due performance of the duties assigned to him. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 communication of official information",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 communication of official information?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 communication of official information?",
+          "How does the Gujarat Civil Services (Conduct) Rules, 1971, address issues related to confidentiality and official information sharing?",
+          "What are the guidelines in the Gujarat Civil Services (Conduct) Rules, 1971, regarding the disclosure of official information?",
+          "What does the Gujarat Civil Services (Conduct) Rules, 1971, specify about the handling of official information by civil servants?"
+        ],
+        "responses": [
+          "  Every Government servant shall, in performance of his duties in good faith, communicate information to a person in accordance with the Right of Information Act,2005 (22 of 2005) and the rules made there under:<br>  Provided that no Government servant shall, except in accordance with any general or special order of the Government or in performance in good faith of the duties assigned to him, communicate, directly or indirectly, any official document or any part thereof or classified information to any Government servant or any other person to whom he is not authorized to communicate such document or classified information."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Evidence before a committee or any other authority ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Evidence before a committee or any other authority ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Evidence before a committee or any other authority ?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, safeguard the rights of civil servants to submit documents as evidence in their defense during disciplinary proceedings?",
+          "What provisions are there in the Gujarat Civil Services (Conduct) Rules, 1971, regarding the cross-examination of witnesses during disciplinary proceedings?",
+          "How does the Gujarat Civil Services (Conduct) Rules, 1971, ensure a fair and transparent process for presenting evidence in disciplinary cases?"
+        ],
+        "responses": [
+          " (1) Save as provided in sub-rule (3), no Government servant shall, except with the previous sanction of the Government, give evidence in connection with any enquiry conducted by any person, committee, or authority.<br> (2) Where any sanction has been accorded under sub-rule (1), no Government servant giving such evidence, shall criticise the policy or any action of any Government of India :<br>   Provided that Government may waive this condition in any particular case.<br> (3) Nothing in this rule shall apply to -<br>  (a) evidence given at an enquiry before an authority appointed by the Government, by Parliament or by a State Legislature, or<br>  (b) evidence given in any judicial inquiry, or<br>  (c) evidence given at any departmental enquiry ordered by Government or authorities subordinate to the Government."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Subscriptions",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Subscriptions?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Subscriptions?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 address contributions or dues from civil servants?",
+          "What is the purpose of subscriptions in the context of the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "What are the subscription requirements for civil servants under the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          "  No Government servant shall except with the previous sanction of the Government or of such authority as may be empowered by it in this behalf, ask for or accept contributions to or otherwise associate himself with the raising of any fund in pursuance of any object whatsoever. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Gifts",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Gifts?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Gifts?",
+          "How are gifts addressed and regulated under the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "What are the restrictions and requirements regarding gifts in the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "What are the provisions in the Gujarat Civil Services (Conduct) Rules, 1971, pertaining to the acceptance of gifts by civil servants?"
+        ],
+        "responses": [
+          " (1) Save as otherwise provided in these rules, no Government servant shall accept, or permit any member of his family, or any + (other) person acting on his behalf, to accept any gift.Explanation :-<br> (i) The expression 'gift' shall, include free transport, boarding lodging or other service or any other pecuniary advantage when provided by any person other than a near relative, or personal friend having no official dealings with the Government servant.<br>Note - I :- A casual meal, lift or other social hospitality shall not be deemed to be a gift.<br>Note - II :- Government servant shall avoid accepting lavish hospitality or frequent hospitality from any individual having official dealing with him or from industrial or commercial firms, organisations etc.<br> (ii) For the purpose of this rule, any trowel, key, other similar articles offered to a Government servant at the laying of the foundation stone or the opening of a public building or any ceremonial function shall be deemed to be a gift.<br> (2) On occasion such as weddings, anniversaries, funerals or religious function, when the making of a gift is in confirmity with the prevailing religious or social practice, a Government servant or any member of his family or any person acting on his behalf may accept gift from near relatives or from personal friends having no official dealing with the Government servant but the Government servant shall make a report to the Government if the value of any such gift exceeds -<br> (i) Rs. 7,000/- (Rupees seven thousand) in the case of a Government servant holding any Class I post.<br> (ii) Rs. 4,000/- (Rupees four thousand) in the case of a Government servant holding any Class II post.<br> (iii) Rs. 2,000/- (Rupees two thousand) in the case of a Government servant holding any Class III post.<br> (iv) Rs. 1,000/- (Rupees one thousand) in the case of a Government servant holding any Class IV post.<br> (3) In any other case, a Government servant shall not accept or permit any member of his family or any other person acting on his behalf to accept any gift without the sanction of the Government if the value thereof exceeds -<br> (i) Rs. 1,500/- (Rupees one thousand five hundred) in case of a Government servant holding any Class I or Class II post.<br> (ii) Rs. 500/- (Rupees five hundred) in the case of a Government servant holding any Class III or Class IV post.<br>13-A.Dowry :-<br> No Government servant shall -<br> (i) give or take or abet the giving or taking of dowry. or<br> (ii) demand, directly or indirectly from the parents or guardian of a bride or bridegroom, as the case may be, any dowry. Explanation :- For the purposes of this rule, 'dowry' has the same meaning as in the Dowry Prohibition Act, 1961 (28 of 1961).  "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Public demonstration or other entertainment in honour of a Government servant",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Public demonstration or other entertainment in honour of a Government servant?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Public demonstration or other entertainment in honour of a Government servant?",
+          "What are the guidelines or limitations set by the Gujarat Civil Services (Conduct) Rules, 1971, regarding events or entertainment held to honor government employees?",
+          "What is the purpose of Rule 21 in the Gujarat Civil Services (Conduct) Rules, 1971, which relates to honoring government servants through public events?",
+          "What does Rule 21 of the Gujarat Civil Services (Conduct) Rules, 1971, specifically say regarding public demonstrations or entertainment in honor of government servants?"
+        ],
+        "responses": [
+          " (1) Save as otherwise provided in this rule, a Government servant shall not except with the previous sanction of Government -<br> (a) receive any complimentary or valedictory address or accept any testimonial presented to him or attend any public meeting or entertainment held in his honour.<br> (b) take part in the presentation of any complimentary or valedictory address or a testimonial to any other Government servant or to any person who had recently quitted service of Government or attend any public meeting or entertainment held in honour of such Government servant or person.<br> (2) Notwithstanding anything contained in sub-rule (1) but subject to the provisions of any general or special order of Government, a Government servant may -<br> (a) at the request of any public body sit for a portrait, bust, or statues not intended for presentation to him.<br> (b) attend a farewell entertainment of a substantially private and informal character held as a mark of regard to himself or to some other Government servant, or to a person who has recently quitted the service of Government on the occassion of the retirement from the service or departure from the district or station, of himself or such other Government servant or persons.<br> (c) attend a simple and inexpensive entertainment arranged by any public body or institution.<br>Note :- Exercise of pressure or influence or any sort on any sort on any Government servant to induce him to subscribe towards any farewell entertainment even if it is of a substantially private or informal character, and the collection of subscriptions from Class III or Class IV employees, under any circumstances for the entertainment of any Government servant not belonging to Class III or Class IV is forbidden  "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Private trade or employment ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Private trade or employment ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Private trade or employment ?",
+          "How does the Gujarat Civil Services (Conduct) Rules, 1971 address the issue of civil servants having private trade or employment?",
+          "What are the guidelines regarding private business or secondary employment for civil servants in Gujarat, according to the rules?",
+          "What does the Gujarat Civil Services (Conduct) Rules, 1971 say about civil servants engaging in private trade or employment?"
+        ],
+        "responses": [
+          " (1) subject to the provisions of sub-rule (2), no Government servant shall, except with the previous sanction of the Government -<br> (a) engage directly or indirectly in any trade or business, or<br> (b) negotiate for, or undertake, any other employment, or<br> (c) hold an elective office, canvass for a candidate or candidates for an elective office, in any body whether incorporated or not, or<br>  (d) canvass in support of any business of insurance agency, commission agency etc. owned or managed by any member of his family, or<br> (e) take part except in the discharge of his official duties, in the registration, promotion or management of any bank or other company registered, or required to be registered, under the Companies Act, 1956 (1 of 1959) or any other law for the time being in force or of any co-operative society for commercial purposes.<br> Explanation :- Making or helping in making the provision of funds for a business undertaken by a wife or a member of his family shall be regarded as indirectly engaging a Government servant in trade or business and shall require previous sanction of the Government.<br> (2) A Government servant may, without the previous sanction of the Government,  <br> (a) undertake honorary work of a social or charitable nature, or<br> (b) undertake occassional work of a literacy, artistic or scientific character, or<br> (c) participate in sports activities as an ameteur, or<br> (d) take part in the registration, promotion or management (not involving the holding of an elective office) of a literacy, scientific or charitable society or of a club or similar organization, the aims or objects of which relate to promotion of sports, cultural or creation activities registered under the Societies Registration Act, 1860 (21 of 1860) or any other law for the time being in force, or<br> (e) take part in the registration, promotion or management (act involving the holding of elective office) of a co-operative society substantially for the benefit of Government servants registered under the Gujarat Co-operative Societies Act, 1961 (Guj. X of 1962) or any other Law for the time being in force :<br>Provided that - <br> (i) he shall discontinue taking part in such activities if so directed by the Government.<br> (ii) in a case falling under clause (d) or clause (e) of this sub-rule, his official duties shall not suffer thereby and he shall, within a period of one month of his taking part in such activity, report to the Government giving details of the nature of his participation.<br> (iii) every Government servant shall report to the Government if any member of his family is engaged in a trade or business or owns or manages an insurance agency or commission agency.<br>(iv) Unless otherwise provided by general of special of the Government, no Government servant shall accept any fee for any work done by him for any private or public body or any private person without the sanction of the prescribed authority.<br>Explanation :-The term 'fee' used in this sub-rule shall have the meaning assigned to it in Note 2 below rule 9(25) of the Bombay Civil Services Rules, 1959. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Investment, Lending and Borrowing  ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Investment, Lending and Borrowing  ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Investment, Lending and Borrowing  ?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Investment, Lending and Borrowing  ?",
+          "What are the investment,lending and borrowing rules for Gujarat civil servants under the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "please provide informaion about Gujarat Civil Services (Conduct) Rules,1971 Investment, Lending and Borrowing"
+        ],
+        "responses": [
+          " (1) No Government servant shall speculate in any investment.<br>Explanation :- Frequent purchase or sale or both of shares, securities or other investments shall be deemed to be speculation within the meaning of this sub-rule.<br> (2) (i) No Government servant shall make, or permit any member of his family to make, any investment likely to embarrass or influence him in the discharge of his official duties and when a Government servant fails to prevent a member of his family from making an investment of this nature, he shall report to Government forthwith.<br>   (ii) No Government servant who is involved in the decision making process of fixation of price of an Initial Public Offering or Follow-up Public Offering of shares of a State Public Sector Enterprise shall apply, either himself or through any member of his family or through any other person acting on his behalf, for allotment of shares in the Initial Public Offerings or Follow-up Public Offerings of such State Public Sector Enterprise.<br> (3) If any question arises whether a security or investment is of a nature referred to in sub-rule (1) or sub-rule (2), the decision of the Government thereon shall be final.<br> (4) No Government servant shall except with the previous sanction of the Government lend money to any person possessing land or valuable property within the local limits under his authority or at interest to any person :<br> Provided that a Government servant may advance a small amount free of interest to a personal friend or relative, or a private servant even if such person possesses land within the local limit of his authority.<br> (5) No Government servant shall, save in the ordinary course of business with a Bank or a firm of standing, borrow money from, or otherwise place himself under pecuniary obligation to any person within the local limits of his authority, or any other person with whom he is likely to have officail dealings, nor shall he permit, any member of his family except with the pervious sanction of the Government, to enter into any such transaction. In case, however, such a transaction is entered into by a member of his family without his permission, it should be reported to Government forthwith.<br>  Provided that a Government servant may accept a purely temporary advance of small amount, free of interest from a personal friend or relative or operate a credit account with a bonafide tradesman.<br> (6) When a Government servant is appointed or transferred to a post of such a nature as to involve him in the breach of any of the provisions of sub-rule (4) or sub-rule (5), he shall forthwith report the circumstances to the Government and shall thereafter act in accordance with such orders as may be passed by the Government.<br>  Provided that a Government servant belonging to Class III or Class-IV service shall make such report to the Head of his Office.<br> (7) This rule may, in the case of Class IV servants be relaxed in exceptional cases at the discretion of the Head of Office, and in so far as it relates to the lending to or borrowing by Government servants from the co-operative societies registered under anylaw for the time being in force shall be usbject ot any general or special restrictions or relaxations made or permitted by Government.   "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Insolvency and Habitual Indebtedness",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Insolvency and Habitual Indebtedness?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Insolvency and Habitual Indebtedness?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971, address issues of financial integrity among government employees?",
+          "What measures are in place in Gujarat to ensure that civil servants do not fall into chronic debt as per the Conduct Rules?",
+          "What are the implications for a civil servant under the Gujarat Civil Services (Conduct) Rules, 1971, if they become insolvent?"
+        ],
+        "responses": [
+          " (1) A Govenment servant shall so manage his private affairs as to avoid habitual indebtedness or insolvency. A Government servant who becomes the subject of legal proceedings for insolvency shall forthwith report the full facts to the Government.<br> (2) Where a moiety of the salary of a Government servant is attached, the report shall show what is the proportion of his debts to the salary and whether the debtor's position is irretrievable so as to enable Government to consider whether in the circumstances of the case, these matters would detract from the debtor's efficiency as a Government servant and whether it is desirable to retain him in the post occupied by him at the time when the matter is brought to the notice of Government or in any other post under Government.<br> (3) When a Government servant is adjudged or declared an insolvent or when a moiety of the salary of such Government servant is constantly being attached, or has been continuously under attachment for a period exceeding two years or is attached for a sum, which in ordinary circumstances cannot be repaid within a period of two years, he shall be liable to be removed from services.<br> (4) In every case under this rule, the burden of proving that the insolvency or indebtedness is the result of circumstances which with the exercise of ordinary diligence, the debtor could not have foreseen or over which he had no control and has not proceeded from extravagant or dissipated habits, shall be, upon the debtor. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 18. Government servant to inform Government about Criminal or Civil proceedings against him  ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 18. Government servant to inform Government about Criminal or Civil proceedings against him  ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 18. Government servant to inform Government about Criminal or Civil proceedings against him  ?",
+          "How does Rule 18 in the Gujarat Civil Services (Conduct) Rules, 1971, affect government servants when they are involved in legal proceedings?",
+          "Can you elaborate on the provision in the Gujarat Civil Services (Conduct) Rules, 1971, that mandates government servants to inform the government about legal actions against them, as specified in Rule 18?",
+          "What is the significance of Rule 18 in the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          " (a) Whereas any criminal proceedings are instituted or are in progress against a Government servant conserning an offence which is alleged to have been committed by him while acting or purporting to act in the discharge of his official duty or which involves moral turpitude or which is punishable with imprisonment for a term of one year or more, or<br> (b) Where any civil proceedings are instituted or are in progress against a Government servant for recovery of an amount exceedings ten times his monthly emoluments or for damages arising out of any breach of trust or mis-appropriation of money or fraud alleged to have been committed by such Government servant, the Government servant shall inform Government or the Head of the Department or Office concerned about such proceedings by submitting a report in writing stating briefly the facts leading to such proceedings.  19. Movable, Immovable and valuable pr"
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Movable, Immovable and valuable property",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Movable, Immovable and valuable property?",
+          "Explain Gujarat Civil Services (Conduct) Rules,1971 Movable, Immovable and valuable property?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Movable, Immovable and valuable property?",
+          "please provide information about Gujarat Civil Services (Conduct) Rules,1971 Movable, Immovable and valuable property?",
+          "What constitutes movable,immovable and valuable property under the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          " (1) This regulation outlines the requirement for government servants to declare their immovable assets:-<br> (a) Upon their initial appointment to a service or post, every government servant must sa detailed report on their immovable assets, following a prescribed proforma bgovernment. This report should encompass all immovable properties owned, inherited, acquor held through lease or mortgage, whether in the government servant's name, their fmembers' names, or any other person's name.<br> (b) Gazetted government servants must provide the information mentioned in clause (a) annon January 1st, covering the period up to December 31st of the preceding year.<br> (c) Non-Gazetted government servants should submit the information as specified in sub(a) at the end of each year during which they attain an age that is a multiple of five (e.g., 25, 30, 35, etc.) until reaching the age of 58 or 60.<br> Note 1: The provisions of clause (a) typically do not apply to Class-IV servants, bugovernment reserves the right to enforce them for any specific government servant or clagovernment servants.<br> Note 2: Government servants who are already in service at the commencement of these rulessubmit their asset declaration by a date specified by the government followincommencement date.<br> (2) A government servant cannot buy, sell, lease, mortgage, gift, or otherwise acquire or dispose of any immovable property in their name or in the name of a family member without prior approval from the designated authority. If the transaction involves someone with official dealings with the government servant, prior permission from the authority is mandatory.<br> (3) A government servant must inform the designated authority within one month of any transaction involving movable property, whether in their name or a family member's name, if the value exceeds two months' basic pay. If the transaction involves a person with official dealings, prior approval from the designated authority is necessary.<br> (4) The government or designated authority can, through a general or specific order, demand a government servant to provide a comprehensive statement of all movable or immovable properties held or obtained by themselves or their family members within a specified timeframe. The statement should include information on how the properties were acquired, if requested.<br> (5) The government can exempt Class III or Class IV government servants from certain provisions of this rule, except sub-rule (4). However, such exemptions require approval from the General Administration Department.<br>Explaination:-(1)In this rule, Movable property encompasses:(a) (i) Valuables like jewelry, shares, securities, and debentures(ii) Insurance policies with an annual premium exceeding two months' basic pay of the Government servant(b) Loans provided by Government servants, whether secured or not(c) Vehicles such as motor cars, motor cycles, horses, or any other means of conveyance(d) Appliances like refrigerators and radiograms.<br>  (2) 'Prescribed authority' refers to:(a) (i) The Government, for a Government servant in a Class I post, unless a lower authority isspecifically designated by the Government.(ii) Head of Department, for a Government servant in a Class II post.(iii) Head of Office, for a Government servant in a Class III or IV post.(b) For a Government servant on foreign service or deputation to another Government or local bodies, theprescribed authority is the parent department or the Department to which the servant is administratively subordinate in their cadre."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Vindication of acts and character of Government Servant ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Vindication of acts and character of Government Servant ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Vindication of acts and character of Government Servant ?",
+          "How can a government servant under the Gujarat Civil Services (Conduct) Rules, 1971, defend their reputation and actions in the face of allegations or charges?",
+          "What are the rights and processes available to government employees in Gujarat to protect their character and conduct as per the civil services rules?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 address issues related to the character and actions of government servants?"
+        ],
+        "responses": [
+          " (1) Government, have resources to any court or to the press for the vindication of his public acts or character from defamatory attacks. In granting sanction to take recourse to a court, Government shall in each case decide whether it will itself bear the cost of proceedings or whether the Government servant shall institute the proceedings at his own expenses, and if so, whether in the event of a decision in his favour Government shall reimburse him to the extent of the whole or any part of the cost incurred by him in excess of the costs, compensation or damage, if any, awarded by the court.<br> (2) Nothing in this rule shall be deemed to prohibit a Government servant from vindicating his private character or any act done by him in his private capacity and where any action for vindicating his private character or any act done by him in private capacity is taken, the Government servant shall submit a report to the prescribed authority regarding such action."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Purchasing or bidding for or holding any Property",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Purchasing or bidding for or holding any Property?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Purchasing or bidding for or holding any Property?",
+          "How does the Gujarat Civil Services (Conduct) Rules, 1971, regulate the acquisition of property by civil servants?",
+          "What are the provisions of the Gujarat Civil Services (Conduct) Rules, 1971, concerning civil servants and property ownership?",
+          "What are the restrictions on property ownership or transactions for civil servants in Gujarat under the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          " (1) No Government servant shall purchase, or bid for, either in person, or by agent, or in his own name, or in the name of any other person, or jointly, or in share with any other person, any property which may under the provision of any law in force is sold or auctioned by or under the orders of Department or office to which he belongs or under which he is employed for the time being.<br> (2) Notwithstanding anything contained in rule 16, no Government servant holding any office in the Revenue or the Land Records Department shall, except with the previous permission in writing of Government or of the Revenue Inspection Commissioner, Collector, Settlement Commissioner and Director of Land Records or Superintendent of Land Records to whom he is subordinate-<br> (i) purchase or bid either in person, or by agent or in his own name, or in the name of any other person, or jointly or in share with any other person for any property which may, under the provision of the Bombay Land Revenue Code, 1879, or of any other law for the time being in force, be sold by order of any revenue or judicial authority in the district in which such Government servant at the time employed.<br> (ii) hold directly or indirectly any farm or is in any way concerned on his private account in the collection or payment of revenue of any kind in the district in which such Government servant is for the time being employed.<br>  Provided that nothing contained in this rule shall apply to revenue paid in fulfilment of any statutory obligation:<br>  Provided further that a Government servant who holds directly or indirectly any farm in the district in which he is for the time being employed shall only report this fact to Government and shall not be required to obtain sanction of Government for holding such farm. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Acting as Arbitrator",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Acting as Arbitrator?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Acting as Arbitrator?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Acting as Arbitrator?",
+          "What is the role of civil servants in arbitration under the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "What are the provisions in the Gujarat Civil Services (Conduct) Rules, 1971, regarding civil servants serving as arbitrators?"
+        ],
+        "responses": [
+          " A Government servant shall not act as an arbitrator in any private case which is likely to come before him in any shape by virtue of any judicial or executive post which he may be holding."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Canvassing of non-official or other outside influence",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Canvassing of non-official or other outside influence?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Canvassing of non-official or other outside influence?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 address the issue of government employees seeking non-official or external interference in their official matters?",
+          "In the context of the Gujarat Civil Services (Conduct) Rules, 1971, what does 'canvassing' refer to, and why is it prohibited for government employees?",
+          "What are the restrictions imposed on government employees regarding seeking external support or influence according to the Gujarat Civil Services (Conduct) Rules, 1971?"
+        ],
+        "responses": [
+          " No Government servant shall bring or attempt to bring any political or other outside influence ot bear upon any superior authority or to approach any member of a legislature or other non-official for interceding with any superiorauthority furthering his interest or for redressing his grievance in regard to any matter pertaining to his service under Government."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Membership of or Association with communal Institution",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Membership of or Association with communal Institution?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Membership of or Association with communal Institution?",
+          "How does Rule 5 of the Gujarat Civil Services (Conduct) Rules, 1971, address the issue of civil servants' involvement with sectarian institutions?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Membership of or Association with communal Institution.",
+          "please provide informaion about Gujarat Civil Services (Conduct) Rules,1971 Membership of or Association with communal Institution."
+        ],
+        "responses": [
+          " No Government servant shall participate in activities of or be associated with any institution whose membership is confined to the members of a particular community or class of communities notwithstanding the fact that the activities of the institution are of a social or an educational nature. But with the prior permission of Government, Government servants may be allowed to participate in the activities of institutions having religious or moral objects.<br>Explanation :- In case of doubt, whether the membership of an Institution comes within the scope of this rule, the decision of Government shall be final. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Association of name of Government servant with Public Institution or Works",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Association of name of Government servant with Public Institution or Works?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Association of name of Government servant with Public Institution or Works?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Association of name of Government servant with Public Institution or Works?",
+          "Please provide information about the rules concerning the association of government servants with public institutions or works under the Gujarat Civil Services (Conduct) Rules, 1971.",
+          "What does the Gujarat Civil Services (Conduct) Rules, 1971, say about government employees being associated with public institutions or works?"
+        ],
+        "responses": [
+          " No Government servant shall except with the previous sanction of Government associate his own name or allow it to be associated with any public institution like libraries, hospitals, schools and roads or such objects as shields, trophies, prizes, medals or cups. A Government servant shall not allow any member of his family living with or wholly dependent upon him to associate his/her name with any such institution or object."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Plural Marriages",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Plural Marriages?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Plural Marriages?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Plural Marriages?",
+          "What are the regulations in Gujarat regarding government employees and their marital status?",
+          "Are there any provisions in Gujarat's civil service conduct rules that address the issue of polygamy among government employees?"
+  
+        ],
+        "responses": [
+          " (1) No Govenment servant shall enter into, or contract, a marriage with a person having a spouse living, and<br> (2) No Government servant having a spouse living, shall enter into, or contract, a marriage with any person :  Provided that the State Government may permit a Government servant to enter into, or contact, any such marriage as is referred to in clause (1) or (2), if it is satisfied that-<br> (a) such marriage is permissible under the personal law applicable to such Government servant and the other party to the marriage, and<br> (b) there are other grounds for so doing.<br>(26-A) Adoption of small family by Government servants :-<br> Every Government servant shall ensure that the number of his children does not exceed three :<br> Provided that nothing in this rule shall apply to a Government servant who has more than three children on the 31st day of October, 1977.<br> Provided further that a Government servant referred to in the preceding proviso shall ensure that the number of his children does not exceed the number of children he has on that day.  "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Interpretation ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Interpretation ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Interpretation ?",
+          "tell mw about Gujarat Civil Services (Conduct) Rules,1971 Interpretation ?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 ensure ethical and responsible behavior among civil servants?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 impact the behavior of government employees?"
+        ],
+        "responses": [
+          " If any question arises relating to the interpretation of these rules, it shall be referred to the Government whose decision thereon shall be final. Government shall take decision in consultation with the State Public Service Commission. "
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Delegation of Power ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Delegation of Power ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Delegation of Power ?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Delegation of Power",
+          "How do higher-ranking officials delegate their authority to subordinates in the Gujarat Civil Services (Conduct) Rules, 1971?",
+          "How do the Gujarat Civil Services (Conduct) Rules, 1971 impact the behavior of government employees in Gujarat?"
+        ],
+        "responses": [
+          " The Government may, by general or special order, direct that any power exercisable by it or any Head of Department or office under these rules (except the power under rule 27 and this rule) shall, subject to such conditions, if any, as may be specified in the order, be exercisable also by such officer or authority as may be specified in the order."
+        ]
+      },
+      {
+        "tag": "Gujarat Civil Services (Conduct) Rules,1971 Repeal and Saving ",
+        "patterns": [
+          "What is Gujarat Civil Services (Conduct) Rules,1971 Repeal and Saving ?",
+          "Expalin Gujarat Civil Services (Conduct) Rules,1971 Repeal and Saving ?",
+          "How does the 'Repeal and Saving' clause affect the previous rules governing the conduct of civil servants in Gujarat?",
+          "tell me about Gujarat Civil Services (Conduct) Rules,1971 Repeal and Saving",
+          "What rules or regulations were repealed by the Gujarat Civil Services (Conduct) Rules, 1971, and which provisions were saved?"
+        ],
+        "responses": [
+          " Any rules corresponding to these rules in force and applicable to the Government servant to whom these rules apply are hereby repealed :<br> Provided that any order made or action taken under the rules so repealed shall be deemed to have been made or taken under the corresponding provisions of these rules :<br> Provided further that such repeal shall not affect the previous operation of the rules so repealed and a contravention of any of the said rules shall be punishable as if it were a contravention of these rules."
+        ]
+    }
+]
+}
