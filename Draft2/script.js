@@ -48,6 +48,3 @@ function handleKeyPress(event) {
 const userInput = document.getElementById('user-input');
 userInput.addEventListener('keypress', handleKeyPress);
 
-// scroll to the bottom of the chat box automatically
-const chatBox = document.getElementById('chat-box');
-chatBox.scrollTop = chatBox.scrollHeight;
