@@ -1,9 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from chat import get_response  # Import the function for generating responses from chat.py
-import nltk
-
-nltk.download('punkt')
 
 app = Flask(__name__)  # Createing a Flask web application 
 CORS(app)  # Enable Cross-Origin Resource Sharing (CORS) for handling requests from different origins
