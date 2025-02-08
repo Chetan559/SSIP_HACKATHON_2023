@@ -3,6 +3,7 @@ from flask_cors import CORS
 from chat import get_response 
 import nltk
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 app = Flask(__name__)  # Createing a Flask web application 
 CORS(app)  # Enable Cross-Origin Resource Sharing (CORS) for handling requests from different origins
