@@ -1,1 +1,1 @@
-web: ./prestart.sh && python app.py
+web: bash prestart.sh && python app.py
