@@ -18,7 +18,7 @@ function sendMessage() {
   appendMessage("You", userMessage);
 
   // Send the user message to the backend
-  fetch("ssip_hackathon_2023.railway.internal/predict", {
+  fetch("https://ssip_hackathon_2023.railway.app/predict", {
     method: "POST",
     mode: "cors",
     headers: {
