@@ -8,6 +8,11 @@ nltk.download('punkt_tab')
 app = Flask(__name__)  # Createing a Flask web application 
 CORS(app)  # Enable Cross-Origin Resource Sharing (CORS) for handling requests from different origins
 
+
+@app.get("/test")
+def test():
+    return jsonify(message="Rule Mitra app is working!")
+
 @app.post("/predict")  # Defining a route for handling POST requests to "/predict"
 def predict():
     text = request.get_json().get("message")  # Get the "message" from the request's JSON data
